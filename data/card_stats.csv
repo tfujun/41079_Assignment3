@@ -1,0 +1,1200 @@
+card_id,card_name,class, mana, attack, health, durability, armor, text
+63218,Tamsin Roame,WARLOCK, 3, 1, 3, , , Whenever you cast a Shadow spell that costs (1) or more, add a copy to your hand that costs (0).
+84007,Conjured Arrow,HUNTER, 2, , , , , Deal 2 damage to a minion. <b>Manathirst (6):</b> Draw that many cards.
+73462,Flipper Friends,DRUID, 5, , , , , <b>Choose One</b> - Summon a 6/6 Orca with <b>Taunt</b>; or six 1/1 Otters with <b>Rush</b>.
+69640,Brawl,WARRIOR, 2, 2, 3, , , <b>Taunt</b> Whenever this minion takes damage, gain +2 Attack.
+71684,Kazakusan,NEUTRAL, 8, 8, 8, , , <b>Battlecry:</b> If you played 4 other Dragons this game, craft a custom deck of Treasures. <i>( left!)</i> <i>(Ready!)</i>
+72649,Mecha-Shark,MAGE, 3, 4, 3, , , After you summon a Mech, deal 3 damage randomly split among all enemies.
+84399,Anachronos,PALADIN, 7, 8, 8, , , <b>Battlecry:</b> Send all other minions 2 turns into the future.
+66866,Onyxia the Broodmother,NEUTRAL, 9, 8, 8, , , At the end of each turn, fill your board with 1/1 Whelps.
+78150,Bibliomite,DEMONHUNTER, 2, 5, 4, , , <b>Battlecry</b>: Choose a card in your hand to shuffle into your deck.
+72320,Rock Bottom,WARLOCK, 1, , , , , Summon a 1/1 Murloc, then <b>Dredge</b>. If it's also a Murloc, summon one more.
+86597,Plague Eruption,WARLOCK, 3, , , , , Deal 2 damage to all minions. If you've discarded a card this game, deal 1 more.
+70020,Shadow Word: Devour,PRIEST, 1, , , , , Choose a minion. It steals 1 Health from ALL other minions.
+62486,Venomous Scorpid,NEUTRAL, 3, 1, 3, , , <b>Poisonous</b> <b>Battlecry:</b> <b>Discover</b> a spell.
+69586,Battlefiend,DEMONHUNTER, 1, 1, 2, , , After your hero attacks, gain +1 Attack.
+69641,Shield Slam,WARRIOR, 1, , , , , Deal 1 damage to a minion for each Armor you have.
+68216,Flanking Maneuver,DEMONHUNTER, 4, , , , , Summon a 4/2 Demon with <b>Rush</b>. If it dies this turn, summon another.
+63038,Druid of the Plains,DRUID, 7, 7, 6, , , <b>Rush</b> <b>Frenzy:</b> Transform into a 6/7 Kodo with <b>Taunt</b>.
+64711,Battleground Battlemaster,NEUTRAL, 6, 5, 5, , , Adjacent minions have <b>Windfury</b>.
+86383,Lor'themar Theron,NEUTRAL, 7, 7, 7, , , <b>Battlecry:</b> Double the stats of all minions in your deck.
+85052,Underking,DRUID, 7, 6, 6, , , <b>Rush</b> <b>Battlecry and Deathrattle:</b> Gain 6 Armor.
+86573,Crystal Broker,NEUTRAL, 3, 3, 2, , , <b>Manathirst (5):</b> Summon a random 3-Cost minion. <b>Manathirst (10):</b> Summon an 8-Cost minion instead.
+62484,Lushwater Scout,NEUTRAL, 2, 1, 3, , , After you summon a Murloc, give it +1 Attack and <b>Rush</b>.
+64465,Gan'arg Glaivesmith,DEMONHUNTER, 3, 3, 3, , , <b>Outcast:</b> Give your hero +3 Attack this turn.
+82088,Obliterate,DEATHKNIGHT, 2, , , , , Destroy a minion. Deal 3 damage to your hero.
+72119,Gone Fishin',ROGUE, 1, , , , , <b>Dredge</b>. <b>Combo:</b> Draw a card.
+76981,Muck Pools,SHAMAN, 1, , 3, , , Transform a friendly minion into one that costs (1) more.
+71228,Whelp Bonker,NEUTRAL, 3, 1, 5, , , <b>Frenzy and Honorable Kill:</b> Draw a card.
+71321,Dun Baldar Bunker,HUNTER, 2, , , , , At the end of your turn, draw a <b>Secret</b> and set its Cost to (1). Lasts 3 turns.
+78123,Magnifying Glaive,DEMONHUNTER, 3, 3, , 2, , After your hero attacks, draw until you have 3 cards.
+78332,Heart Strike,DEATHKNIGHT, 1, , , , , Deal 3 damage to a minion. If that kills it, gain a <b>Corpse</b>.
+63515,Shattering Blast,MAGE, 3, , , , , Destroy all <b>Frozen</b> minions.
+71229,Deep Breath,MAGE, 5, , , , , Deal damage to a minion and its neighbors. <i>(Improved by number of other spells in your hand.)</i>
+69677,Bloodsail Raider,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.
+80818,Body Bagger,DEATHKNIGHT, 1, 1, 3, , , <b>Battlecry</b>: Gain a <b>Corpse</b>.
+63030,Living Seed (Rank 1),DRUID, 2, , , , , Draw a Beast. Reduce its Cost by (1). <i>(Upgrades when you have 5 Mana.)</i>
+69723,Murloc Tinyfin,NEUTRAL, 0, 1, 1, , , 
+71940,Crushclaw Enforcer,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> If you've cast a spell while holding this, draw a Naga.
+69623,Preparation,ROGUE, 0, , , , , The next spell you cast this turn costs (2) less.
+83089,Timewarden,PALADIN, 3, 3, 4, , , <b>Battlecry:</b> Until the end of your next turn, Dragons you summon gain <b>Taunt</b> and <b>Divine Shield</b>.
+69598,Cenarius,DRUID, 8, 5, 8, , , <b>Choose One -</b> Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.
+69702,Arcanologist,MAGE, 2, 2, 3, , , <b>Battlecry:</b> Draw a <b>Secret</b>.
+67759,Deliverance,PRIEST, 3, , , , , Deal 3 damage to a minion. <b>Honorable Kill:</b> Summon a new 3/3 copy of it.
+75560,Herald of Nature,DRUID, 3, 3, 3, , , <b>Battlecry:</b> If you've cast a Nature spell while holding this, give your other minions +1/+2.
+72007,Blademaster Okani,NEUTRAL, 4, 2, 6, , , <b>Battlecry:</b> <b>Secretly</b> choose to <b>Counter</b> the next minion or spell your opponent plays while this is alive.
+75637,Immolate,WARLOCK, 4, , , , , Light every card in the opponent's hand on fire. In 3 turns, any still in hand are destroyed!
+77055,Impending Catastrophe,WARLOCK, 2, , , , , Draw a card. Repeat for each Imp you control.
+62812,Piercing Shot,HUNTER, 4, , , , , Deal 6 damage to a minion. Excess damage hits the enemy hero.
+70241,Irondeep Trogg,NEUTRAL, 1, 1, 2, , , After your opponent casts a spell, summon another Irondeep Trogg.
+69513,Wild Growth,DRUID, 3, , , , , Gain an empty Mana Crystal.
+76329,Faerie Dragon,NEUTRAL, 2, 3, 2, , , Can't be targeted by spells or Hero Powers.
+84740,Blood Matriarch Liadrin,PALADIN, 2, 3, 2, , , After you summon a minion with less Attack than this, give it <b>Divine Shield</b> and <b>Rush</b>.
+78113,Kotori Lightblade,PALADIN, 2, 2, 3, , , After you cast a Holy spell on this, cast it again on another friendly minion.
+89699,Flamereaper,DEMONHUNTER, 7, 5, , 3, , Also damages the minions next to whomever your hero attacks.
+63368,Unstable Shadow Blast,WARLOCK, 2, , , , , Deal 6 damage to a minion. Excess damage hits your hero.
+63019,Crossroads Gossiper,NEUTRAL, 3, 4, 3, , , After a friendly <b>Secret</b> is revealed, gain +2/+2.
+78633,Possessifier,DEATHKNIGHT, 5, 3, 3, , , <b>Battlecry:</b> Summon two 1/1 Fighters with <b>Rush</b> and <b>Reborn</b>.
+63250,Toad of the Wilds,NEUTRAL, 2, 2, 2, , , <b>Taunt</b> <b>Battlecry:</b> If you're holding a Nature spell, gain +2 Health.
+78357,Corrupted Ashbringer,DEATHKNIGHT, 6, 5, , 2, , <b>Lifesteal</b>
+69595,Druid of the Claw,DRUID, 6, 4, 6, , , <b>Choose One -</b> Transform into a 7/6 with <b>Rush</b>; or a 4/9 with <b>Taunt</b>.
+76297,Animal Companion,HUNTER, 3, , , , , Summon a random Beast Companion.
+86505,Cold Storage,SHAMAN, 1, , , , , <b>Freeze</b> a minion. Add a copy of it to your hand.
+72650,Seafloor Gateway,MAGE, 3, , , , , Draw a Mech. Reduce the Cost of Mechs in your hand by (1).
+79540,Habeas Corpses,WARLOCK, 3, , , , , <b>Discover</b> a friendly minion to resurrect and give it <b>Rush</b>. It dies at the end of turn.
+69544,Stormwind Champion,NEUTRAL, 7, 7, 7, , , Your other minions have +1/+1.
+72440,Desecrated Graveyard,WARLOCK, 3, , , , , At the end of your turn, destroy your lowest Attack minion to summon a 4/4 Shade. Lasts 3 turns.
+69693,Dire Frenzy,HUNTER, 4, , , , , Give a Beast +3/+3. Shuffle 3 copies into your deck with +3/+3.
+62924,Knight of Anointment,PALADIN, 1, 1, 1, , , <b>Battlecry:</b> Draw a Holy spell.
+71945,Priestess Valishj,PRIEST, 1, 1, 1, , , <b>Battlecry:</b> Refresh an empty Mana Crystal for each spell you've cast this turn. <i>( )</i>
+63056,Runed Orb,MAGE, 2, , , , , Deal 2 damage. <b>Discover</b> a spell.
+62993,Cariel Roame,PALADIN, 4, 4, 3, , , <b>Rush</b>, <b>Divine Shield</b> Whenever this attacks, reduce the Cost of Holy spells in your hand by (1).
+78383,Sesselie of the Fae Court,DRUID, 8, 8, 8, , , <b>Taunt</b> <b>Deathrattle</b>: Draw a minion. Reduce its Cost by (8).
+79990,Demolition Renovator,NEUTRAL, 4, 4, 4, , , <b>Tradeable</b> <b>Battlecry:</b> Destroy an enemy location.
+64371,Catacomb Guard,PALADIN, 3, 1, 4, , , <b>Lifesteal</b> <b>Battlecry:</b> Deal damage equal to this minion's Attack to an enemy minion.
+65159,Imported Tarantula,HUNTER, 5, 4, 5, , , <b>Tradeable</b> <b>Deathrattle:</b> Summon two 1/1 Spiders with <b>Poisonous</b> and <b>Rush</b>.
+72924,Spellcoiler,MAGE, 2, 2, 3, , , <b>Battlecry:</b> If you've cast a spell while holding this, <b>Discover</b> a spell.
+63260,Kurtrus Ashfallen,DEMONHUNTER, 4, 3, 4, , , <b>Battlecry:</b> Attack the left and right-most enemy minions. <b>Outcast:</b> <b>Immune</b> this turn.
+64673,Maestra of the Masquerade,ROGUE, 2, 3, 2, , , You start the game as a different class until you play a Rogue card.
+67048,"Xyrella, the Devout",PRIEST, 8, , 30, , 5, <b>Battlecry:</b> Trigger the <b>Deathrattle</b> of every friendly minion that died this game.
+70488,The Lobotomizer,ROGUE, 2, 2, , 2, , <b>Honorable Kill:</b> Get a copy of the top card of your opponent's deck.
+63323,Galloping Savior,PALADIN, 1, , , , , <b>Secret:</b> After your opponent plays three cards in a turn, summon a 3/4 Steed with <b>Taunt</b>.
+86150,Prescience,SHAMAN, 4, , , , , Draw 2 minions. For each that costs (5) or more, summon a 2/3 Spirit with <b>Taunt</b>.
+86507,Death Beetle,DRUID, 6, 6, 6, , , <b>Taunt</b> <b>Manathirst ( ):</b> Gain +4/+4 and <b>Charge</b>.
+76293,Far Sight,SHAMAN, 3, , , , , Draw a card. That card costs (3) less.
+69505,Chaos Nova,DEMONHUNTER, 5, , , , , Deal 4 damage to all minions.
+86274,Arcane Bolt,MAGE, 1, , , , , Deal 2 damage. <b>Manathirst (8):</b> Deal 3 damage instead.
+65602,Monstrous Parrot,HUNTER, 4, 3, 4, , , <b>Battlecry:</b> Repeat the last friendly <b>Deathrattle</b> that triggered.
+84274,Scourge Tamer,HUNTER, 2, 2, 2, , , <b>Battlecry:</b> Craft a custom Zombeast.
+84261,Scourge Supplies,WARLOCK, 3, , , , , Draw 3 cards. Choose one to discard.
+71231,Furious Howl,HUNTER, 2, , , , , Draw a card. Repeat until you have at least 3 cards.
+69727,Stormwatcher,NEUTRAL, 7, 4, 8, , , <b>Windfury</b>
+64321,Canal Slogger,SHAMAN, 4, 6, 4, , , <b>Rush</b>, <b>Lifesteal</b> <b>Overload:</b> (1)
+72487,Serpent Wig,PRIEST, 1, , , , , Give a minion +1/+2. If you played a Naga while holding this, add a Serpent Wig to your hand.
+82316,Great Hall,PALADIN, 2, , 3, , , Set a minion's Attack and Health to 3.
+72935,Hydralodon,HUNTER, 7, 5, 5, , , <b>Colossal +2</b> <b>Battlecry:</b> Give your Hydralodon Heads <b>Rush</b>.
+84272,Halduron Brightwing,HUNTER, 3, 3, 4, , , <b>Battlecry:</b> Give all Arcane spells in your hand and deck <b>Spell Damage +1</b>.
+62877,Priest of An'she,PRIEST, 5, 5, 5, , , <b>Taunt</b>. <b>Battlecry:</b> If you've restored Health this turn, gain +3/+3.
+63397,Selfless Sidekick,NEUTRAL, 7, 6, 6, , , <b>Battlecry:</b> Equip a random weapon from your deck.
+77654,Planted Evidence,DRUID, 1, , , , , <b>Discover</b> a spell. It costs (2) less this turn.
+71240,Horn of Wrathion,PRIEST, 3, , , , , Draw a minion. If it's a Dragon, summon two 2/1 Whelps with <b>Rush</b>.
+79557,Bog Beast,NEUTRAL, 6, 3, 6, , , <b><b>Taunt</b></b> <b>Deathrattle:</b> Summon a 2/4 Muckmare with <b>Taunt</b>.
+65140,Hot Streak,MAGE, 0, , , , , Your next Fire spell this turn costs (2) less.
+86481,Ransack,ROGUE, 0, , , , , Deal 1 damage to a minion. If you've played a card from another class this turn, deal 4 instead.
+86691,Fleshshaper,WARRIOR, 6, 3, 8, , , <b>Taunt</b>. <b>Battlecry:</b> If you have 5 or more Armor, summon a copy of this.
+76303,Bloodhoof Brave,WARRIOR, 4, 2, 6, , , <b>Taunt</b> Has +3 Attack while damaged.
+67756,Sacrificial Summoner,WARLOCK, 3, 3, 3, , , <b>Battlecry:</b> Destroy a friendly minion. Summon a minion from your deck that costs (1) more.
+64166,SI:7 Skulker,NEUTRAL, 2, 2, 2, , , <b>Stealth</b> <b>Battlecry:</b> The next card you draw costs (1) less.
+77300,Boon of the Ascended,PRIEST, 5, , , , , Give a minion +2 Health. Summon a Kyrian with its stats and <b>Taunt</b>.
+75589,Clownfish,SHAMAN, 3, 3, 2, , , <b>Battlecry:</b> Your next two Murlocs cost (2) less.
+80819,Gnome Muncher,DEATHKNIGHT, 6, 5, 6, , , <b>Taunt</b>, <b>Lifesteal</b> At the end of your turn, attack the lowest Health enemy.
+64704,Spice Bread Baker,NEUTRAL, 4, 3, 2, , , <b>Battlecry:</b> Restore Health to your hero equal to your hand size.
+71289,Tooth of Nefarian,ROGUE, 2, , , , , Deal 3 damage. <b>Honorable Kill:</b> <b>Discover</b> a spell from another class.
+79111,Lady Darkvein,WARLOCK, 5, 3, 6, , , <b>Battlecry:</b> Summon two 2/1 Shades. Each gains a <b>Deathrattle</b> to cast your last Shadow spell.
+71247,Scale of Onyxia,DRUID, 7, , , , , Fill your board with 2/1 Whelps with <b>Rush</b>.
+71254,"Mi'da, Pure Light",PRIEST, 6, 4, 6, , , <b>Divine Shield</b>, <b>Lifesteal</b> <b>Deathrattle:</b> Shuffle a Fragment into your deck that resummons Mi'da when drawn.
+84737,Sanguine Soldier,PALADIN, 1, 2, 1, , , <b>Divine Shield</b> <b>Battlecry:</b> Deal 2 damage to your hero.
+84421,Arcsplitter,MAGE, 3, 3, 2, , , <b>Deathrattle:</b> Add 2 Arcane Bolts to your hand.
+84923,Blood Crusader,PALADIN, 6, 5, 5, , , <b>Battlecry:</b> Your next Paladin minion this turn costs Health instead of Mana.
+80019,Brittleskin Zombie,NEUTRAL, 3, 4, 3, , , <b>Deathrattle:</b> If it's your opponent's turn, deal 3 damage to them.
+76310,Zola the Gorgon,NEUTRAL, 3, 2, 2, , , <b>Battlecry:</b> Choose a friendly minion. Add a Golden copy of it to your hand.
+69708,Plague Scientist,ROGUE, 3, 2, 3, , , <b>Combo:</b> Give a friendly minion <b>Poisonous</b>.
+69535,Execute,WARRIOR, 1, , , , , Destroy a damaged enemy minion.
+76321,Wild Pyromancer,NEUTRAL, 2, 3, 2, , , After you cast a spell, deal 1 damage to ALL minions.
+69548,Acidic Swamp Ooze,NEUTRAL, 2, 3, 2, , , <b>Battlecry:</b> Destroy your opponent's weapon.
+63099,Seedcloud Buckler,PALADIN, 3, 2, , 3, , <b>Deathrattle:</b> Give your minions <b>Divine Shield</b>.
+62889,Silverleaf Poison,ROGUE, 1, , , , , Give your weapon "After your hero attacks, draw a card."
+86544,Amber Watcher,PALADIN, 5, 4, 6, , , <b>Battlecry:</b> Restore 8 Health.
+69526,Sprint,ROGUE, 5, , , , , Draw 4 cards.
+84391,Flight of the Bronze,PALADIN, 1, , , , , <b>Discover</b> a Dragon. <b>Manathirst (7):</b> Summon a 5/5 Drake with <b>Taunt</b>.
+65605,Wicked Shipment,WARLOCK, 1, , , , , <b>Tradeable</b> Summon 1/1 (Imp, Imps). <i>(Upgrades by 2 when <b>Traded</b>!)</i>
+69622,Shadowstep,ROGUE, 0, , , , , Return a friendly minion to your hand. It costs (2) less.
+80649,Rimefang Sword,DEATHKNIGHT, 3, 2, , 3, , After your hero attacks, reduce the Cost of a spell in your hand by (1).
+67237,Spammy Arcanist,NEUTRAL, 5, 3, 4, , , <b>Battlecry:</b> Deal 1 damage to all other minions. If any die, repeat this.
+70262,Templar Captain,PALADIN, 8, 8, 8, , , <b>Rush</b>. After this attacks a minion, summon a 5/5 Defender with <b>Taunt</b>.
+69567,Power Infusion,PRIEST, 4, , , , , Give a minion +2/+6.
+73471,Miracle Growth,DRUID, 8, , , , , Draw 3 cards. Summon a Plant with <b>Taunt</b> and stats equal to your hand size.
+70249,Heart of the Wild,DRUID, 3, , , , , Give a minion +2/+2, then give your Beasts +1/+1.
+63359,Savory Deviate Delight,ROGUE, 1, , , , , Transform a minion in both players' hands into a Pirate or <b>Stealth</b> minion.
+79584,Insatiable Devourer,NEUTRAL, 9, 4, 4, , , <b>Battlecry:</b> Devour an enemy minion and gain its stats. <b>Infuse ( ):</b> And its neighbors.
+69663,Defender of Argus,NEUTRAL, 4, 3, 3, , , <b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.
+64898,Entitled Customer,WARLOCK, 6, 3, 2, , , <b>Battlecry:</b> Deal damage equal to your hand size to all other minions.
+79608,Murder Accusation,ROGUE, 2, , , , , Choose a minion. Destroy it after another enemy minion dies.
+80822,Marrow Manipulator,DEATHKNIGHT, 6, 5, 5, , , <b>Battlecry:</b> Spend up to 5 <b>Corpses</b>. Deal 2 damage to a random enemy for each.
+76271,Kalecgos,MAGE, 9, 4, 12, , , Your first spell each turn costs (0). <b>Battlecry:</b> <b>Discover</b> a spell.
+86546,"Ragnaros, Lightlord",PALADIN, 8, 8, 8, , , At the end of your turn, restore 8 Health to a damaged friendly character.
+70204,Iceblood Tower,MAGE, 10, , , , , At the end of your turn, cast another spell from your deck. Lasts 3 turns.
+69698,Shooting Star,MAGE, 1, , , , , Deal 1 damage to a minion and the minions next to it.
+63164,Razorfen Beastmaster,DEMONHUNTER, 3, 3, 3, , , <b>Deathrattle:</b> Summon a <b>Deathrattle</b> minion that costs (4) or less from your hand.
+76316,Acolyte of Pain,NEUTRAL, 3, 1, 3, , , Whenever this minion takes damage, draw a card.
+76318,Beaming Sidekick,NEUTRAL, 1, 1, 2, , , <b>Battlecry:</b> Give a friendly minion +2 Health.
+70026,Gift of the Naaru,PRIEST, 1, , , , , Restore 3 Health to all characters. If any are still damaged, draw a card.
+73906,Amalgam of the Deep,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> Choose a friendly minion. <b>Discover</b> a minion of the same minion type.
+76295,Maelstrom Portal,SHAMAN, 2, , , , , Deal 1 damage to all enemy minions. Summon a random 1-Cost minion.
+69650,Ironbeak Owl,NEUTRAL, 3, 2, 1, , , <b>Battlecry:</b> <b>Silence</b> a minion.
+84358,Haunting Nightmare,PRIEST, 3, 4, 3, , , <b>Deathrattle:</b> Haunt a card in your hand. When you play it, summon a 4/3 Soldier.
+86543,Candleshot,HUNTER, 1, 1, , 3, , Your hero is <b>Immune</b> while attacking.
+69616,Shadow Word: Ruin,PRIEST, 4, , , , , Destroy all minions with 5 or more Attack.
+77761,Widowbloom Seedsman,DRUID, 4, 3, 2, , , <b>Battlecry:</b> Draw a Nature spell. Gain an empty Mana Crystal.
+71924,Voidgill,WARLOCK, 2, 3, 2, , , <b>Deathrattle:</b> Give all Murlocs in your hand +1/+1.
+74884,Conch's Call,HUNTER, 3, , , , , Draw a Naga and a spell.
+86367,Invincible,NEUTRAL, 8, 5, 5, , , <b>Reborn</b> <b>Battlecry and Deathrattle:</b> Give another random friendly Undead +5/+5 and <b>Taunt</b>.
+70292,Wing Commander Mulverick,DRUID, 4, 2, 5, , , <b>Rush</b>. Your minions have "<b>Honorable Kill:</b> Summon a 2/2 Wyvern with <b>Rush</b>."
+69533,Truesilver Champion,PALADIN, 4, 4, 2, , , <b>Battlecry:</b> If your deck has no Neutral cards, equip a 4/2 Truesilver Champion.
+72340,Emergency Maneuvers,HUNTER, 2, , , , , <b>Secret:</b> When a friendly minion dies, summon a copy of it. It's <b>Dormant</b> for 1 turn.
+69738,Tomb Pillager,ROGUE, 4, 5, 4, , , <b>Deathrattle:</b> Add a Coin to your hand.
+78405,The Harvester of Envy,PRIEST, 3, 4, 3, , , After you play a card copied from the opponent, steal the original.
+64337,Park Panther,DRUID, 4, 4, 4, , , <b>Rush</b>. Whenever this attacks, give your hero +3 Attack this turn.
+73465,Green-Thumb Gardener,DRUID, 6, 5, 5, , , <b>Battlecry:</b> Refresh empty Mana Crystals equal to the Cost of the highest Cost spell in your hand.
+63079,Invigorating Sermon,PALADIN, 4, , , , , Give +1/+1 to all minions in your hand, deck, and battlefield.
+84003,Grand Magister Rommath,MAGE, 9, 5, 7, , , <b>Battlecry:</b> Recast each spell you've cast this game that didn't start in your deck.
+78356,Hematurge,DEATHKNIGHT, 2, 2, 3, , , <b>Battlecry:</b> Spend a <b>Corpse</b> to <b>Discover</b> a Blood Rune card.
+78354,Nerubian Swarmguard,DEATHKNIGHT, 4, 1, 3, , , <b>Taunt</b> <b>Battlecry:</b> Summon two copies of this minion.
+85050,Wither,DRUID, 1, , , , , Choose a minion. Each friendly Undead steals 1 Attack and Health from it.
+69611,Argent Protector,PALADIN, 2, 3, 2, , , <b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.
+67217,Frantic Hippogryph,NEUTRAL, 5, 3, 7, , , <b>Rush</b>. <b>Honorable Kill</b>: Gain <b>Windfury</b>.
+69604,Freezing Trap,HUNTER, 2, , , , , <b>Secret:</b> When an enemy minion attacks, return it to its owner's hand. It costs (2) more.
+77244,Crazed Wretch,WARRIOR, 2, 1, 4, , , Has +2 Attack and <b>Charge</b> while damaged.
+81849,Darkfallen Neophyte,DEATHKNIGHT, 3, 2, 5, , , <b>Battlecry:</b> Spend 2 <b>Corpses</b> to give all minions in your hand +2 Attack.
+69726,Sleepy Dragon,NEUTRAL, 9, 4, 12, , , <b>Taunt</b>
+64709,Guild Trader,NEUTRAL, 4, 3, 4, , , <b>Tradeable</b> <b>Spell Damage +2</b>
+63072,Arid Stormer,SHAMAN, 3, 2, 5, , , <b>Battlecry:</b> If you played an Elemental last turn, gain <b>Rush</b> and <b>Windfury</b>.
+70015,Balinda Stonehearth,MAGE, 6, 5, 5, , , <b>Battlecry:</b> Draw 2 spells. Swap their Costs with this minion's stats.
+63227,Guff Runetotem,DRUID, 3, 2, 4, , , After you cast a Nature spell, give another friendly minion +2/+2.
+86536,Murozond the Infinite,PRIEST, 8, 8, 8, , , <b>Battlecry:</b> Play all cards your opponent played last turn.
+81973,Glacial Advance,DEATHKNIGHT, 3, , , , , Deal 4 damage. Your next spell this turn costs (1) less.
+69666,Coldlight Seer,NEUTRAL, 3, 2, 3, , , <b>Battlecry:</b> Give your other Murlocs +2 Health.
+64665,Chaos Leech,DEMONHUNTER, 3, , , , , <b>Lifesteal</b>. Deal 3 damage to a minion. <b>Outcast:</b> Deal 5 instead.
+64346,Kodo Mount,DRUID, 4, , , , , Give a minion +4/+2 and <b>Rush</b>. When it dies, summon a Kodo.
+64728,Cornelius Roame,NEUTRAL, 6, 4, 5, , , At the start and end of each player's turn, draw a card.
+70236,Icehoof Protector,NEUTRAL, 6, 2, 10, , , <b>Taunt</b> <b>Freeze</b> any character damaged by this minion.
+76261,Inkveil Ambusher,ROGUE, 2, 1, 2, , , <b>Stealth</b> Has +3 Attack and <b>Immune</b> while attacking.
+69602,Snake Trap,HUNTER, 2, , , , , <b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.
+70235,Troll Centurion,NEUTRAL, 8, 8, 8, , , <b>Rush</b>. <b>Honorable Kill:</b> Deal 8 damage to the enemy hero.
+67194,Frozen Buckler,WARRIOR, 2, , , , , Gain 10 Armor. At the start of your next turn, lose 5 Armor.
+63002,Tame Beast (Rank 1),HUNTER, 2, , , , , Summon a 2/2 Beast with <b>Rush</b>. <i>(Upgrades when you have 5 Mana.)</i>
+72651,Volcanomancy,MAGE, 2, , , , , Choose a minion. When it dies, deal 3 damage to all other minions.
+86147,Unliving Champion,SHAMAN, 3, 3, 2, , , <b>Battlecry:</b> If a friendly Undead died after your last turn, summon two 3/2 Zombies.
+84240,Deal with a Devil,DEMONHUNTER, 5, , , , , Summon two 3/3 Felfiends with <b>Lifesteal</b>. If your deck has no minions, summon another.
+67769,Snowfall Guardian,SHAMAN, 6, 5, 5, , , <b>Battlecry:</b> <b>Freeze</b> all other minions.
+62894,Yoink!,ROGUE, 1, , , , , <b>Discover</b> a Hero Power and set its Cost to (0). Swap back after 2 uses.
+62548,Injured Marauder,NEUTRAL, 4, 5, 10, , , <b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.
+63272,Firemancer Flurgl,SHAMAN, 2, 2, 3, , , After you play a Murloc, deal 1 damage to all enemies.
+69603,Explosive Trap,HUNTER, 2, , , , , <b>Secret:</b> When your hero is attacked, deal 2 damage to all enemies.
+84765,Bloodied Knight,NEUTRAL, 3, 4, 5, , , At the end of your turn, deal 2 damage to your hero.
+84692,Flesh Behemoth,NEUTRAL, 9, 4, 8, , , <b>Taunt</b> <b>Deathrattle:</b> Draw another Undead and summon a copy of it.
+64391,Shard of the Naaru,PRIEST, 1, , , , , <b>Tradeable</b> <b>Silence</b> all enemy minions.
+72932,Seascout Operator,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> If you control a Mech, summon two 2/1 Mechafish.
+78349,Dark Transformation,DEATHKNIGHT, 2, , , , , Transform an Undead into a 4/5 Undead Monstrosity with <b>Rush</b>.
+84266,Eversong Portal,HUNTER, 4, , , , , Summon 1 4/4 (Lynx, Lynxes) with <b>Rush</b> <i>(improved by <b>Spell Damage</b>)</i>.
+84242,Brutal Annihilan,DEMONHUNTER, 9, 9, 9, , , <b>Taunt</b>, <b>Rush</b> After this minion survives damage, deal that amount to the enemy hero.
+63102,Party Up!,PALADIN, 7, , , , , Summon five 2/2 Adventurers with random bonus effects.
+80021,Repulsive Gargantuan,DEATHKNIGHT, 4, 3, 6, , , Enemy characters can't be healed.
+72418,Piranha Poacher,SHAMAN, 3, 2, 5, , , At the end of your turn, add a 1/1 Piranha Swarmer to your hand.
+86417,Embers of Strength,WARRIOR, 2, , , , , Summon two 1/2 Guards with <b>Taunt</b>. <b>Manathirst (6):</b> Give them +1/+2.
+69667,Cairne Bloodhoof,NEUTRAL, 6, 5, 5, , , <b>Deathrattle:</b> Summon a 5/5 Baine Bloodhoof.
+80118,Switcheroo,PRIEST, 3, , , , , Draw 2 minions. Swap their Health.
+80830,Boneguard Commander,DEATHKNIGHT, 8, 8, 8, , , <b>Taunt</b> <b>Battlecry:</b> Raise up to 6 <b>Corpses</b> as 1/3 Risen Footmen with <b>Taunt</b>.
+68262,Razorglaive Sentinel,DEMONHUNTER, 4, 5, 4, , , After you play the left or right-most card in your hand, draw a card.
+78324,Death Strike,DEATHKNIGHT, 4, , , , , <b>Lifesteal</b> Deal 6 damage to a minion.
+84856,Plaguespreader,NEUTRAL, 4, 4, 4, , , <b>Deathrattle:</b> Transform a random minion in your opponent's hand into a Plaguespreader.
+69683,Crimson Sigil Runner,DEMONHUNTER, 1, 1, 1, , , <b>Outcast:</b> Draw a card.
+69675,Murloc Tidecaller,NEUTRAL, 1, 1, 2, , , Whenever you summon a Murloc, gain +1 Attack.
+64721,Cheesemonger,NEUTRAL, 4, 3, 6, , , Whenever your opponent casts a spell, add a random spell with the same Cost to your hand.
+64627,Rats of Extraordinary Size,HUNTER, 6, , , , , Summon seven 1/1 Rats. Any that can't fit on the battlefield go to your hand with +4/+4.
+64375,Final Showdown,DEMONHUNTER, 1, , , , , <b>Questline:</b> Draw 4 cards in one turn. <b>Reward:</b> Reduce the Cost of the cards drawn by (1).
+78142,Anima Extractor,WARRIOR, 2, 1, 4, , , Whenever a friendly minion takes damage, give a random minion in your hand +1/+1.
+67211,Vitality Surge,PALADIN, 2, , , , , Draw a minion. Restore Health to your hero equal to its Cost.
+70203,Double Agent,ROGUE, 3, 3, 3, , , <b>Battlecry:</b> If you're holding a card from another class, summon a copy of this.
+67761,Cheaty Snobold,SHAMAN, 3, 3, 4, , , After an enemy is <b>Frozen</b>, deal 3 damage to it.
+86111,Potion Belt,ROGUE, 2, , , , , <b>Discover</b> 2 Concoctions.
+84302,Dar'Khan Drathir,WARLOCK, 7, 6, 6, , , <b>Lifesteal</b> At the end of your turn, deal 6 damage to the enemy hero.
+69553,Mortal Coil,WARLOCK, 1, , , , , Deal 1 damage to a minion. If that kills it, draw a card.
+63119,Rancor,WARRIOR, 4, , , , , Deal 2 damage to all minions. Gain 2 Armor for each destroyed.
+79602,Class Action Lawyer,PALADIN, 2, 2, 3, , , <b>Battlecry:</b> If your deck has no Neutral cards, set a minion's stats to 1/1.
+65676,Amulet of Undying,PRIEST, 3, , , , , <b>Tradeable</b> Resurrect friendly <b>Deathrattle</b> (minion, minions). <i>(Upgrades when <b>Traded</b>!)</i>
+64033,SI:7 Extortion,ROGUE, 1, , , , , <b>Tradeable</b> Deal 3 damage to an undamaged character.
+67779,Bru'kan of the Elements,SHAMAN, 8, , 30, , 5, <b>Battlecry:</b> Call upon the power of two Elements!
+76315,Mistress of Mixtures,NEUTRAL, 1, 2, 2, , , <b>Deathrattle:</b> Restore 4 Health to each hero.
+84345,Collateral Damage,HUNTER, 8, , , , , Deal 6 damage to three random enemy minions. Excess damage hits the enemy hero.
+85154,Nerubian Vizier,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> <b>Discover</b> a spell. If a friendly Undead died after your last turn, it costs (2) less.
+62483,Lushwater Murcenary,NEUTRAL, 2, 3, 2, , , <b>Battlecry:</b> If you control a Murloc, gain +1/+1.
+78329,Shatterskin Gargoyle,NEUTRAL, 6, 4, 6, , , <b>Taunt</b> <b>Deathrattle:</b> Deal 4 damage to a random enemy.
+70320,Capture Coldtooth Mine,DRUID, 2, , , , , <b>Choose One -</b> Draw your lowest Cost card; or Draw your highest Cost card.
+84233,Fel'dorei Warband,DEMONHUNTER, 4, , , , , Deal 4 damage. If your deck has no minions, summon four 1/1 Illidari with <b>Rush</b>.
+86545,Bronze Explorer,PALADIN, 3, 3, 3, , , <b>Lifesteal</b> <b>Battlecry:</b> <b>Discover</b> a Dragon.
+76325,Twilight Drake,NEUTRAL, 4, 4, 1, , , <b>Battlecry:</b> Gain +1 Health for each card in your hand.
+69566,Psychic Conjurer,PRIEST, 1, 1, 2, , , <b>Battlecry:</b> Copy a card in your opponent�s deck and add it to your hand.
+84238,Infantry Reanimator,WARLOCK, 5, 4, 4, , , <b>Battlecry:</b> Resurrect a friendly Undead. Give it <b>Reborn</b>.
+67758,Impfestation,WARLOCK, 6, , , , , Summon a 3/3 Dread Imp to attack each enemy minion.
+64373,Irebound Brute,DEMONHUNTER, 7, 6, 7, , , <b>Taunt</b> Costs (1) less for each card drawn this turn.
+62879,Serena Bloodfeather,PRIEST, 2, 1, 1, , , <b>Battlecry:</b> Choose an enemy minion. Steal Attack and Health from it until this has more.
+70333,Pride Seeker,DRUID, 3, 2, 4, , , <b>Battlecry:</b> Your next <b>Choose One</b> card costs (2) less.
+62581,Burning Blade Acolyte,NEUTRAL, 5, 1, 1, , , <b>Deathrattle:</b> Summon a 5/8 Demonspawn with <b>Taunt</b>.
+76289,Living Roots,DRUID, 1, , , , , <b>Choose One -</b> Deal 2 damage; or Summon two 1/1 Saplings.
+79482,Deathborne,MAGE, 6, , , , , Deal 2 damage to all minions. Summon a 2/2 Volatile Skeleton for each killed.
+62584,Crossroads Watch Post,NEUTRAL, 4, 4, 6, , , Can't attack. Whenever your opponent casts a spell, give your minions +1/+1.
+79555,Motion Denied,HUNTER, 2, , , , , <b>Secret:</b> After your opponent plays three cards in a turn, deal 6 damage to the enemy hero.
+86552,Injured Tol'vir,NEUTRAL, 2, 2, 6, , , <b>Taunt</b> <b>Battlecry:</b> Deal 3 damage to this minion.
+78086,The Countess,PALADIN, 7, 7, 7, , , <b>Battlecry:</b> If your deck has no Neutral cards, add 3 <b>Legendary </b>Invitations to your hand.
+73466,Bottomfeeder,DRUID, 1, 1, 3, , , <b>Deathrattle:</b> Add a Bottomfeeder to the bottom of your deck with permanent +2/+2.
+63591,Mankrik,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> Help Mankrik find his wife! She was last seen somewhere in your deck.
+72807,Dun Baldar Bridge,PALADIN, 4, , , , , After you summon a minion, give it +2/+2. Lasts 3 turns.
+66176,Illidari Inquisitor,DEMONHUNTER, 8, 8, 8, , , <b>Rush</b>. After your hero attacks an enemy, this attacks it too.
+69674,Baron Geddon,NEUTRAL, 7, 7, 7, , , At the end of your turn, deal 2 damage to ALL other characters.
+80121,Jackpot!,ROGUE, 2, , , , , Add two random spells from other classes that cost (5) or more to your hand.
+69684,Spectral Sight,DEMONHUNTER, 2, , , , , Draw a card. <b>Outcast:</b> Draw another.
+62515,South Coast Chieftain,SHAMAN, 2, 3, 2, , , <b>Battlecry:</b> If you control another Murloc, deal 2 damage.
+86504,Blazing Transmutation,SHAMAN, 1, , , , , Choose a minion. <b>Discover</b> one that costs (1) more to transform it into.
+82313,Sanguine Depths,WARRIOR, 1, , 3, , , Deal 1 damage to a minion and give it +2 Attack.
+78325,Frost Strike,DEATHKNIGHT, 2, , , , , Deal 3 damage to a minion. If that kills it, <b>Discover</b> a Frost Rune card.
+66854,Fogsail Freebooter,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> If you have a weapon equipped, deal 2 damage.
+72333,Smothering Starfish,NEUTRAL, 4, 2, 4, , , <b>Battlecry:</b> <b>Silence</b> ALL other minions.
+77490,Natural Causes,DRUID, 2, , , , , Deal 2 damage. Summon a 2/2 Treant.
+69591,Soul of the Forest,DRUID, 3, , , , , Give your minions "<b>Deathrattle:</b> Summon a 2/2 Treant."
+72553,Glugg the Gulper,SHAMAN, 7, 3, 5, , , <b>Colossal +3</b> After a friendly minion dies, gain its original stats.
+65682,Grey Sage Parrot,MAGE, 6, 4, 5, , , <b>Battlecry:</b> Repeat the last spell you've cast that costs (6) or more.
+86551,Vulpera Scoundrel,NEUTRAL, 3, 2, 3, , , <b>Battlecry</b>: <b>Discover</b> a spell or pick a mystery choice.
+76258,Lightray,PALADIN, 10, 5, 5, , , <b>Taunt</b> Costs (1) less for each Paladin card you've played this game.
+76288,Wrath,DRUID, 6, , , , , Deal 8 damage randomly split among all enemies.
+67753,Piggyback Imp,NEUTRAL, 3, 4, 1, , , <b>Deathrattle:</b> Summon a 4/1 Imp.
+72473,Blood in the Water,ROGUE, 6, , , , , Deal 3 damage to an enemy. Summon a 5/5 Shark with <b>Rush</b>.
+75876,Dispossessed Soul,NEUTRAL, 4, 4, 5, , , <b>Battlecry:</b> If you control a location, <b>Discover</b> a copy of a card in your deck.
+64308,Rise to the Occasion,PALADIN, 1, , , , , <b>Questline:</b> Play 3 different 1-Cost cards. <b>Reward:</b> Equip a 1/4 Light's Justice.
+69986,Seeds of Destruction,WARLOCK, 2, , , , , Shuffle four Rifts into your deck. They summon a 3/3 Dread Imp when drawn.
+63732,Shadowcloth Needle,PRIEST, 1, 0, , 3, , After you cast a Shadow spell, deal 1 damage to all enemies. Lose 1 Durability.
+79559,Stoneborn Accuser,NEUTRAL, 5, 5, 5, , , <b>Infuse ( ):</b> Gain "<b>Battlecry:</b> Deal 5 damage."
+78353,Battlefield Necromancer,DEATHKNIGHT, 2, 2, 2, , , At the end of your turn, raise a <b>Corpse</b> as a 1/3 Risen Footman with <b>Taunt</b>.
+62845,Sigil of Flame,DEMONHUNTER, 2, , , , , At the start of your next turn, deal 3 damage to all minions.
+63432,Archdruid Naralex,NEUTRAL, 3, 3, 3, , , <b>Dormant</b> for 2 turns. While <b>Dormant</b>, add a Dream card to your hand at the end of your turn.
+64895,Shady Bartender,WARLOCK, 5, 4, 4, , , <b>Tradeable</b> <b>Battlecry:</b> Give your Demons +2/+2.
+79569,Defrost,DEATHKNIGHT, 2, , , , , Draw a card. Spend 2 <b>Corpses</b> to draw another.
+77305,The Light! It Burns!,PRIEST, 1, , , , , Deal damage to a minion equal to its Attack.
+71233,Dragonbane Shot,HUNTER, 2, , , , , Deal 2 damage. <b>Honorable Kill:</b> Add a Dragonbane Shot to your hand.
+72563,Stormpike Aid Station,PRIEST, 3, , , , , At the end of your turn, give your minions +2 Health. Lasts 3 turns.
+76327,Primordial Drake,NEUTRAL, 8, 4, 8, , , <b>Taunt</b> <b>Battlecry:</b> Deal 2 damage to all other minions.
+69524,Sinister Strike,ROGUE, 1, , , , , Deal 3 damage to the enemy hero.
+80645,Grave Strength,DEATHKNIGHT, 4, , , , , Give your minions +1 Attack. Spend 5 <b>Corpses</b> to give them +3 instead.
+78264,Frenzied Fangs,HUNTER, 2, , , , , Summon two 2/1 Bats. <b>Infuse ( ):</b> Give them +1/+2.
+84385,Scourge Illusionist,ROGUE, 4, 4, 4, , , <b>Deathrattle:</b> Add a 4/4 copy of another <b>Deathrattle</b> minion in your deck to your hand. It costs (4) less.
+67927,Humongous Owl,NEUTRAL, 7, 8, 4, , , <b>Deathrattle:</b> Deal 8 damage to a random enemy.
+73428,Bubblebot,PALADIN, 4, 4, 4, , , <b>Battlecry:</b> Give your other Mechs <b>Divine Shield</b> and <b>Taunt</b>.
+84206,Shadow Word: Undeath,PRIEST, 5, , , , , Deal 2 damage to all enemies. If a friendly Undead died after your last turn, deal 2 more.
+63195,Wound Prey,HUNTER, 1, , , , , Deal 1 damage. Summon a 1/1 Hyena with <b>Rush</b>.
+62176,Shadow Hunter Vol'jin,NEUTRAL, 5, 3, 6, , , <b>Battlecry:</b> Choose a minion. Swap it with a random one in its owner's hand.
+69664,Gadgetzan Auctioneer,NEUTRAL, 6, 4, 4, , , Whenever you cast a spell, draw a card.
+70226,Bunker Sergeant,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> If your opponent has 2 or more minions, deal 1 damage to all enemy minions.
+70258,Korrak the Bloodrager,NEUTRAL, 4, 3, 5, , , <b>Deathrattle:</b> If this wasn't <b>Honorably Killed</b>, resummon Korrak.
+84739,Seal of Blood,PALADIN, 3, , , , , Give a minion +3/+3 and <b>Divine Shield</b>. Deal 3 damage to your hero.
+76314,Reno Jackson,NEUTRAL, 6, 4, 6, , , <b>Battlecry:</b> If your deck has no duplicates, fully heal your hero.
+64637,Defend the Dwarven District,HUNTER, 1, , , , , <b>Questline:</b> Deal damage with 3 spells. <b>Reward:</b> Your Hero Power can target minions.
+72586,Reefwalker,NEUTRAL, 3, 3, 2, , , <b>Battlecry and Deathrattle:</b> Summon a 1/1 Piranha Swarmer.
+89354,Escaped Manasaber,NEUTRAL, 4, 3, 5, , , <b>Stealth</b> Whenever this attacks, gain 1 Mana Crystal this turn only.
+63215,Kabal Outfitter,WARLOCK, 3, 3, 3, , , <b>Battlecry and Deathrattle:</b> Give another random friendly minion +1/+1.
+67224,Mass Polymorph,MAGE, 7, , , , , Transform all minions into 1/1 Sheep.
+77313,Decimator Olgra,WARRIOR, 6, 3, 7, , , <b>Battlecry:</b> Gain +1/+1 for each damaged minion, then attack all enemies.
+78508,Vengeful Visage,MAGE, 3, , , , , <b>Secret:</b> After an enemy minion attacks your hero, summon a copy of it to attack the enemy hero.
+72248,Emerald Skytalon,NEUTRAL, 1, 2, 1, , , <b>Rush</b>
+62744,Death's Head Cultist,NEUTRAL, 3, 2, 4, , , <b>Taunt</b> <b>Deathrattle:</b> Restore 4 Health to your hero.
+69731,Menacing Nimbus,SHAMAN, 2, 2, 3, , , <b>Battlecry:</b> Add a random Elemental to your hand.
+69636,Flame Imp,WARLOCK, 1, 3, 2, , , <b>Battlecry:</b> Deal 3 damage to your hero.
+71230,"Haleh, Matron Protectorate",MAGE, 8, 4, 12, , , After you cast a spell, deal 4 damage randomly split among all enemies.
+70103,Revive Pet,HUNTER, 3, , , , , <b>Discover</b> a friendly Beast that died this game. Summon it.
+65583,Moonlit Guidance,DRUID, 2, , , , , <b>Discover</b> a copy of a card in your deck. If you play it this turn, draw the original.
+72488,Blackwater Behemoth,PRIEST, 7, 8, 10, , , <b>Colossal +1</b> <b>Lifesteal</b>
+85604,Coroner,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> <b>Freeze</b> an enemy minion. <b>Manathirst (6):</b> <b>Silence</b> it first.
+84388,Daring Drake,PALADIN, 4, 4, 4, , , <b>Rush</b> <b>Battlecry:</b> If you're holding a Dragon, gain +1/+1.
+64975,Stormwind Freebooter,WARRIOR, 3, 3, 4, , , <b>Battlecry:</b> Give your hero +2 Attack this turn.
+64773,Overdraft,SHAMAN, 1, , , , , <b>Tradeable</b> Unlock your <b>Overloaded</b> Mana Crystals to deal that much damage.
+64719,Lion's Guard,NEUTRAL, 5, 4, 6, , , <b>Battlecry:</b> If you have 15 or less Health, gain +2/+4 and <b>Taunt</b>.
+76270,Murloc Warleader,NEUTRAL, 3, 3, 3, , , Your other Murlocs have +2 Attack.
+86735,Ymirjar Deathbringer,DEATHKNIGHT, 3, 4, 3, , , <b>Taunt</b>. <b>Deathrattle:</b> Spend 3 <b>Corpses</b> to summon a 3/3 Risen Ymirjar with <b>Taunt</b>.
+77714,Sketchy Stranger,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> <b>Discover</b> a <b>Secret</b> from another class.
+78261,Plot of Sin,DRUID, 3, , , , , Summon two 2/2 Treants. <b>Infuse ( ):</b> Two 5/5 Ancients instead.
+74755,Harpoon Gun,HUNTER, 3, 3, , 2, , After your hero attacks, <b>Dredge</b>. If it's a Beast, reduce its Cost by (2).
+84400,Hope of Quel'Thalas,HUNTER, 6, 4, , 2, , After your hero attacks, give your minions +1/+1 <i>(wherever they are).</i>
+78525,Gigantotem,SHAMAN, 10, 8, 8, , , Costs (1) less for each Totem you've summoned this game.
+63461,Barak Kodobane,HUNTER, 5, 3, 5, , , <b>Battlecry:</b> Draw a 1, 2, and 3-Cost spell.
+86119,Vile Apothecary,ROGUE, 3, 2, 4, , , At the end of your turn, add a random Concoction to your hand.
+80088,Meat Grinder,DEATHKNIGHT, 3, 3, 4, , , <b>Battlecry:</b> Shred a random minion in your deck to gain 4 <b>Corpses.</b>
+62895,Apothecary Helbrim,ROGUE, 4, 3, 2, , , <b>Battlecry and Deathrattle:</b> Add a random Poison to your hand.
+71646,Bubbler,NEUTRAL, 1, 2, 4, , , After this minion takes exactly one damage, destroy it. <i>(Pop!)</i>
+84356,Nightcloak Sanctum,MAGE, 3, , 2, , , <b>Freeze</b> a minion. Summon a 2/2 Volatile Skeleton.
+84243,Umbral Geist,NEUTRAL, 2, 3, 1, , , <b>Deathrattle:</b> Add a random Shadow spell to your hand.
+80084,Incorporeal Corporal,NEUTRAL, 2, 5, 5, , , After this minion attacks, destroy it.
+65584,Jerry Rig Carpenter,DRUID, 2, 2, 1, , , <b>Battlecry:</b> Draw a <b>Choose One</b> spell and split it.
+69705,Righteous Protector,PALADIN, 1, 1, 1, , , <b>Taunt</b> <b>Divine Shield</b>
+71226,Onyxian Warder,NEUTRAL, 5, 3, 6, , , <b>Battlecry:</b> If you're holding a Dragon, summon two 2/1 Whelps with <b>Rush</b>.
+64720,Rustrot Viper,NEUTRAL, 3, 3, 4, , , <b>Tradeable</b> <b>Battlecry:</b> Destroy your opponent's weapon.
+63027,Pride's Fury,DRUID, 4, , , , , Give your minions +1/+3.
+64280,Raid the Docks,WARRIOR, 1, , , , , <b>Questline:</b> Play 3 Pirates. <b>Reward:</b> Draw a weapon.
+72583,Treasure Guard,NEUTRAL, 3, 1, 5, , , <b>Taunt</b> <b>Deathrattle:</b> Draw a card.
+79767,Prince Renathal,NEUTRAL, 3, 3, 4, , , Your deck size is 40. Your starting Health is 35.
+64214,Auctionhouse Gavel,SHAMAN, 2, 2, , 2, , After your hero attacks, reduce the Cost of a <b>Battlecry</b> minion in your hand by (1).
+76223,K9-0tron,HUNTER, 2, 2, 3, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a 1-Cost minion, summon it.
+63396,Meeting Stone,NEUTRAL, 1, 0, 2, , , At the end of your turn, add a 2/2 Adventurer with a random bonus effect to your hand.
+84398,Keeneye Spotter,HUNTER, 3, 3, 4, , , Whenever your hero attacks a minion, set its Health to 1.
+64727,Flightmaster Dungar,NEUTRAL, 3, 3, 3, , , <b>Battlecry:</b> Choose a flightpath and go <b>Dormant. </b> Awaken with a bonus when you complete it!
+84204,Crystalsmith Cultist,PRIEST, 1, 1, 2, , , <b>Battlecry:</b> If you're holding a Shadow spell, gain +1/+1.
+78270,Huntsman Altimor,HUNTER, 7, 5, 4, , , <b>Battlecry:</b> Summon a Gargon Companion. <b>Infuse ( ):</b> Summon another. <b>Infuse ( ):</b> And another!
+63261,Varden Dawngrasp,MAGE, 4, 3, 3, , , <b>Battlecry:</b> <b>Freeze</b> all enemy minions. If any are already <b>Frozen</b>, deal 4 damage to them instead.
+67833,Frostbite,SHAMAN, 2, , , , , Deal 3 damage. <b>Honorable Kill:</b> Your opponent's next spell costs (2) more.
+71239,Wings of Hate (Rank 1),DEMONHUNTER, 1, , , , , Summon two 1/1 Felwings. <i>(Upgrades when you have 5 Mana.)</i>
+82072,Stitched Giant,DEATHKNIGHT, 9, 8, 8, , , Costs (1) less for each <b>Corpse</b> you've spent this game.
+69525,Assassinate,ROGUE, 4, , , , , Destroy an enemy minion.
+84207,Sister Svalna,PRIEST, 6, 6, 6, , , <b>Battlecry:</b> <i>Permanently</i> add a Vision of Darkness to your hand.
+68255,Scrapsmith,WARRIOR, 3, 2, 4, , , <b>Taunt</b> <b>Battlecry:</b> Add two 2/4 Grunts with <b>Taunt</b> to your hand.
+64390,Call of the Grave,PRIEST, 1, , , , , <b>Discover</b> a <b>Deathrattle</b> minion. If you have enough Mana to play it, trigger its <b>Deathrattle</b>.
+87920,"Krag'wa, the Frog",SHAMAN, 6, 4, 6, , , <b>Battlecry:</b> Return all spells you played last turn to your hand.
+74894,"Nellie, the Great Thresher",WARRIOR, 7, 5, 5, , , <b>Colossal +1</b> <b>Battlecry:</b> <b>Discover</b> 3 Pirates to crew Nellie's Ship!
+69655,Bloodmage Thalnos,NEUTRAL, 2, 1, 1, , , <b>Spell Damage +1</b> <b>Deathrattle:</b> Draw a card.
+86190,Skeletal Sidekick,DEATHKNIGHT, 1, 1, 2, , , <b>Battlecry:</b> Give a friendly Undead +2 Attack.
+62482,Ratchet Privateer,NEUTRAL, 3, 4, 3, , , <b>Battlecry:</b> Give your weapon +1 Attack.
+63098,Perpetual Flame,SHAMAN, 2, , , , , Deal 3 damage to a random enemy minion. If it dies, recast this. <b>Overload:</b> (1)
+64903,Anetheron,WARLOCK, 6, 8, 6, , , Costs (1) if your hand is full.
+65699,Maddest Bomber,NEUTRAL, 8, 9, 8, , , <b>Battlecry:</b> Deal 12 damage randomly split among all other characters.
+85035,Arcane Wyrm,MAGE, 1, 1, 2, , , <b>Battlecry:</b> Add an Arcane Bolt to your hand.
+80083,Necrotic Mortician,DEATHKNIGHT, 2, 2, 3, , , <b>Battlecry:</b> If a friendly Undead died after your last turn, <b>Discover</b> an Unholy Rune card.
+71248,Battle Vicar,PALADIN, 2, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a Holy spell.
+63060,Arcane Luminary,MAGE, 3, 4, 3, , , Cards that didn't start in your deck cost (2) less <i>(but not less than 1)</i>.
+69569,Shadow Word: Death,PRIEST, 2, , , , , Destroy a minion with 5 or more Attack.
+86510,Rake,DRUID, 3, 3, 3, , , <b>Battlecry:</b> If you've cast three spells while holding this, deal 5 damage. <i>( left!)</i> <i>(Ready!)</i>
+87317,Mistake,NEUTRAL, 1, 1, 3, , , <i>This has all minion types</i>.
+80736,Runeforging,DEATHKNIGHT, 1, , , , , Draw a weapon. Spend a <b>Corpse</b> to reduce its Cost by (1).
+79774,Torghast Custodian,SHAMAN, 8, 6, 10, , , <b>Battlecry:</b> For each enemy minion, randomly gain <b>Rush</b>, <b>Divine Shield</b>, or <b>Windfury</b>.
+64774,Bolner Hammerbeak,SHAMAN, 2, 1, 4, , , After you play a <b>Battlecry</b> minion, repeat the first <b>Battlecry</b> played this turn.
+78169,Frostmourne,DEATHKNIGHT, 7, 5, , 3, , <b>Deathrattle:</b> Summon every minion killed by this weapon.
+72481,Whirlpool,PRIEST, 8, , , , , Destroy all minions and all copies of them <i>(wherever they are)</i>.
+71234,Don't Stand in the Fire!,SHAMAN, 5, , , , , Deal 10 damage randomly split among all enemy minions. <b>Overload:</b> (1)
+82073,Malignant Horror,DEATHKNIGHT, 4, 2, 4, , , <b>Reborn</b> At the end of your turn, spend 4 <b>Corpses</b> to summon a copy of this minion.
+86235,Explosive Runes,MAGE, 3, , , , , <b>Secret:</b> After your opponent plays a minion, deal 6 damage to it and any excess to their hero.
+84752,Vast Wisdom,MAGE, 2, , , , , <b>Discover</b> two spells that cost (3) or less. Swap their Costs.
+71841,"Gaia, the Techtonic",MAGE, 8, 5, 7, , , <b>Colossal +2</b> After a friendly Mech attacks, deal 1 damage to all enemies.
+85051,Chitinous Plating,DRUID, 2, , , , , Gain 4 Armor. At the start of your next turn, gain 4 more.
+84234,Overlord Drakuru,SHAMAN, 9, 6, 8, , , <b>Rush</b>, <b>Windfury</b> After this attacks and kills a minion, resurrect it on your side.
+63955,Sketchy Information,ROGUE, 4, , , , , Draw a <b>Deathrattle</b> card that costs (4) or less. Trigger its <b>Deathrattle.</b>
+68187,Wildpaw Cavern,SHAMAN, 4, , , , , At the end of your turn, summon a 3/4 Elemental that <b>Freezes</b>. Lasts 3 turns.
+65604,Shadowblade Slinger,WARLOCK, 1, 2, 1, , , <b>Battlecry:</b> If you've taken damage this turn, deal that much to an enemy minion.
+73723,Lady S'theno,DEMONHUNTER, 3, 2, 4, , , <b>Immune</b> while attacking. After you cast a spell, attack the lowest Health enemy.
+79770,Call to the Stand,WARRIOR, 1, , , , , Your opponent summons a random minion from their hand.
+63274,Overlord Saurfang,WARRIOR, 7, 5, 4, , , <b>Battlecry:</b> Resurrect 2 friendly <b>Frenzy</b> minions. Deal 1 damage to all other minions.
+70234,Knight-Captain,NEUTRAL, 5, 3, 3, , , <b>Battlecry:</b> Deal 3 damage. <b>Honorable Kill:</b> Gain +3/+3.
+66848,Magister Dawngrasp,MAGE, 7, , 30, , 5, <b>Battlecry:</b> Recast a spell from each spell school you've cast this game.
+63264,Sigil of Summoning,DEMONHUNTER, 2, , , , , At the start of your next turn, summon two 2/2 Demons with <b>Taunt</b>.
+80112,Immortalized in Stone,PALADIN, 7, , , , , Summon a 1/2, 2/4, and 4/8 Elemental with <b>Taunt</b>.
+77428,Crud Caretaker,SHAMAN, 4, 1, 1, , , <b>Battlecry</b>: Summon a 3/5 Elemental with <b>Taunt</b>.
+63058,Frostweave Dungeoneer,MAGE, 3, 2, 3, , , <b>Battlecry:</b> Draw a spell. If it's a Frost spell, summon two 1/1 Elementals that <b>Freeze</b>.
+77482,Artificer Xy'mox,DEMONHUNTER, 8, 8, 8, , , <b>Battlecry:</b> <b>Discover</b> and cast a Relic. <b>Infuse ( ):</b> Cast all three instead.
+69501,Fireball,MAGE, 7, 5, 7, , , Whenever you cast a spell, add a 'Fireball' spell to your hand.
+64464,Reckoning,PALADIN, 5, , , , , At the start of your next turn, summon a random Demon from your hand.
+73528,Frostwolf Kennels,DRUID, 3, , , , , At the end of your turn, summon a 2/2 Wolf with <b>Stealth</b>. Lasts 3 turns.
+72926,Azsharan Mooncatcher,PALADIN, 3, 4, 2, , , <b>Divine Shield</b>. <b>Battlecry:</b> Put a 'Sunken Mooncatcher' on the bottom of your deck.
+82689,Silvermoon Sentinel,NEUTRAL, 3, 2, 5, , , <b>Taunt</b> <b>Manathirst ( ):</b> Gain +2/+2 and <b>Divine Shield</b>.
+67204,Dreadprison Glaive,DEMONHUNTER, 1, 1, , 3, , <b>Honorable Kill:</b> Deal damage equal to your hero's Attack to the enemy hero.
+67873,Amplified Snowflurry,MAGE, 2, 2, 3, , , <b>Battlecry:</b> Your next Hero Power costs (0) and <b>Freezes</b> the target.
+76225,Shellshot,HUNTER, 3, , , , , Deal 3 damage to a random enemy minion. Repeat this with 1 less damage.
+86540,Hench-Clan Burglar,ROGUE, 4, 4, 4, , , <b>Battlecry:</b> <b>Discover</b> a spell from another class.
+76259,Shattershambler,ROGUE, 1, 1, 3, , , <b>Battlecry:</b> Your next <b>Deathrattle</b> minion costs (1) less, but immediately dies when played.
+77299,Partner in Crime,PRIEST, 4, 2, 5, , , <b>Battlecry:</b> Summon a copy of this minion at the end of your turn.
+72587,Forged in Flame,WARRIOR, 2, , , , , Destroy your weapon, then draw cards equal to its Attack.
+73799,Helmet Hermit,NEUTRAL, 1, 4, 3, , , Can't attack.
+77150,Sticky Situation,ROGUE, 2, , , , , <b>Secret:</b> After your opponent casts a spell, summon a 3/4 Spider with <b>Stealth</b>.
+67757,Hollow Abomination,WARLOCK, 5, 2, 8, , , <b>Battlecry:</b> Deal 1 damage to all enemy minions. <b>Honorable Kill:</b> Gain the minion's Attack.
+72632,The Fires of Zin-Azshari,WARRIOR, 2, , , , , Replace your deck with minions that cost (5) or more. They cost (5).
+65579,Wealth Redistributor,PALADIN, 5, 2, 8, , , <b>Taunt</b>. <b>Battlecry:</b> Swap the Attack of the highest and lowest Attack minion.
+63347,Against All Odds,PRIEST, 5, , , , , Destroy ALL odd-Attack minions.
+63193,Apothecary's Caravan,WARLOCK, 2, 1, 3, , , At the start of your turn, summon a 1-Cost minion from your deck.
+71984,The Leviathan,PALADIN, 7, 4, 5, , , <b>Colossal +1</b> <b>Rush</b>, <b>Divine Shield</b> After this attacks, <b>Dredge</b>.
+69614,Equality,PALADIN, 2, , , , , Change the Health of ALL minions to 1.
+75868,Scuttlebutt Ghoul,NEUTRAL, 4, 2, 5, , , <b>Taunt</b> <b>Battlecry:</b> If you control a <b>Secret</b>, summon a copy of this.
+72105,Tuskarrrr Trawler,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> <b>Dredge</b>.
+76283,Abyssal Enforcer,WARLOCK, 7, 6, 6, , , <b>Battlecry:</b> Deal 3 damage to all other characters.
+73464,Seaweed Strike,DRUID, 3, , , , , Deal 4 damage to a minion. If you played a Naga while holding this, also give your hero +4 Attack this turn.
+67040,Lightforged Cariel,PALADIN, 8, , 30, , 5, <b>Battlecry:</b> Deal 2 damage to all enemies. Equip a 2/5 Immovable Object.
+75631,Igneous Lavagorger,WARRIOR, 4, 3, 5, , , <b>Taunt</b> <b>Battlecry:</b> <b>Dredge</b>. Gain Armor equal to its Cost.
+79562,Red Herring,NEUTRAL, 7, 3, 12, , , <b>Taunt</b> Your non-Red Herring minions have <b>Stealth</b>.
+64291,Lost in the Park,DRUID, 1, , , , , <b>Questline:</b> Gain 4 Attack with your hero. <b>Reward:</b> Gain 5 Armor.
+62872,Power Word: Fortitude,PRIEST, 8, , , , , Give a minion +3/+5. Costs (1) less for each spell in your hand.
+67826,Grave Defiler,WARLOCK, 1, 2, 1, , , <b>Battlecry:</b> Copy a Fel spell in your hand.
+71695,Gangplank Diver,NEUTRAL, 5, 6, 4, , , <b>Dormant</b> for 1 turn. <b>Rush</b>. <b>Immune</b> while attacking.
+73792,Slithering Deathscale,NEUTRAL, 7, 5, 9, , , <b>Battlecry:</b> If you've cast three spells while holding this, deal 3 damage to all enemies. <i>( left!)</i> <i>(Ready!)</i>
+65608,Need for Greed,DEMONHUNTER, 5, , , , , <b>Tradeable</b> Draw 3 cards. If drawn this turn, this costs (3).
+64713,Pandaren Importer,NEUTRAL, 2, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a spell that didn't start in your deck.
+78649,Deathchiller,DEATHKNIGHT, 2, 2, 3, , , After you cast a spell, deal 1 damage to two random enemies.
+63033,Razormane Battleguard,DRUID, 2, 2, 3, , , The first <b>Taunt</b> minion you play each turn costs (2) less.
+63163,Razorboar,DEMONHUNTER, 2, 3, 2, , , <b>Deathrattle:</b> Summon a <b>Deathrattle</b> minion that costs (3) or less from your hand.
+74881,Twinbow Terrorcoil,HUNTER, 4, 4, 4, , , <b>Battlecry:</b> If you've cast a spell while holding this, your next spell casts twice.
+69600,Savannah Highmane,HUNTER, 6, 7, 5, , , <b>Deathrattle:</b> Summon two 2/2 Hyenas.
+78509,Convoke the Spirits,DRUID, 10, , , , , Cast 8 random Druid spells <i>(targets chosen randomly)</i>.
+79535,Invitation Courier,NEUTRAL, 3, 3, 4, , , After a card is added to your hand from another class, copy it.
+85597,Translocation Instructor,NEUTRAL, 5, 4, 4, , , <b>Battlecry:</b> Choose an enemy minion. Swap it with a random one in their deck.
+64715,Stockades Guard,NEUTRAL, 1, 1, 3, , , <b>Battlecry:</b> Give a friendly minion <b>Taunt</b>.
+70005,Build a Snowman,MAGE, 3, , , , , Summon a 3/3 Snowman that <b>Freezes</b>. Add "Build a Snowbrute" to your hand.
+63375,"Kresh, Lord of Turtling",WARRIOR, 6, 3, 9, , , <b>Frenzy:</b> Gain 8 Armor. <b>Deathrattle:</b> Equip a 2/5 Turtle Spike.
+64703,Impatient Shopkeep,NEUTRAL, 3, 3, 3, , , <b>Tradeable</b> <b>Rush</b>
+79748,Dew Process,DRUID, 2, , , , , For the rest of the game, players draw an extra card at the start of their turn.
+71252,Lightmaw Netherdrake,PRIEST, 4, 4, 4, , , <b>Battlecry:</b> If you're holding a Holy and a Shadow spell, deal 3 damage to all other minions.
+72024,Lady Naz'jar,MAGE, 5, 5, 5, , , While in your hand, this transforms after you cast a Fire, Frost, or Arcane spell.
+84235,Unleash Fel,DEMONHUNTER, 1, , , , , Deal 1 damage to all enemies. <b>Manathirst (6):</b> With <b>Lifesteal</b>.
+86722,"Thaddius, Monstrosity",NEUTRAL, 10, 11, 11, , , <b>Taunt</b> Your odd-Cost cards cost (1). <i>(Swaps polarity each turn!)</i> <b>Taunt</b> Your even-Cost cards cost (1). <i>(Swaps polarity each turn!)</i>
+84250,Ricochet Shot,HUNTER, 1, , , , , Deal 1 damage to three random enemies.
+69558,Chaos Strike,DEMONHUNTER, 2, , , , , Give your hero +2 Attack this turn. Draw a card.
+86508,Life from Death,DRUID, 6, , , , , Draw 3 cards. <b>Infuse ( ):</b> This costs (1).
+72810,Saidan the Scarlet,PALADIN, 3, 2, 2, , , <b>Rush.</b> Whenever this minion gains Attack or Health, double that amount <i>(wherever this is)</i>.
+86559,Sunfury Clergy,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> Restore 3 Health to all friendly characters. <b>Manathirst (6):</b> Restore 6 Health instead.
+69577,Battleworn Vanguard,DEMONHUNTER, 2, 2, 2, , , After your hero attacks, summon two 1/1 Felwings.
+79537,Imp-oster,WARLOCK, 2, 1, 1, , , <b>Battlecry:</b> Choose a friendly Imp. Transform into a copy of it.
+75552,Herald of Chaos,DEMONHUNTER, 3, 3, 4, , , <b>Lifesteal</b> <b>Battlecry:</b> If you've cast a Fel spell while holding this, gain <b>Rush</b>.
+70221,Sneaky Scout,NEUTRAL, 2, 3, 2, , , <b>Stealth</b> <b>Honorable Kill:</b> Your next Hero Power costs (0).
+73446,Za'qul,WARLOCK, 5, 6, 5, , , Your Abyssal Curses heal you for the damage they deal. <b>Battlecry:</b> Give your opponent an Abyssal Curse.
+86692,Hookfist-3000,WARRIOR, 3, 4, 3, , , After your hero attacks, gain 4 Armor and draw a card.
+85054,Anub'Rekhan,DRUID, 8, 7, 7, , , <b>Battlecry:</b> Gain 5 Armor. Your next 3 minions this turn cost Armor instead of Mana.
+78145,Jury Duty,PALADIN, 3, , , , , Summon two Silver Hand Recruits. Give your Silver Hand Recruits +1/+1.
+64425,Psyfiend,PRIEST, 3, 3, 4, , , After you cast a Shadow spell, deal 2 damage to each hero.
+78155,Murlocula,NEUTRAL, 4, 3, 4, , , <b>Lifesteal</b> <b>Infuse ( ):</b> This costs (0).
+78156,Buffet Biggun,PALADIN, 4, 2, 4, , , <b>Battlecry:</b> Summon two Silver Hand Recruits. <b>Infuse ( ):</b> Give them +2 Attack and <b>Divine Shield</b>.
+73774,Aquatic Form,DRUID, 0, , , , , <b>Dredge</b>. If you have the Mana to play the card this turn, draw it.
+69511,Mark of the Wild,DRUID, 2, , , , , Give a minion <b>Taunt</b> and +2/+3.<i> (+2 Attack/+3 Health)</i>
+71690,Pufferfist,NEUTRAL, 3, 3, 3, , , After your hero attacks, deal 1 damage to all enemies.
+77057,Flustered Librarian,WARLOCK, 1, 1, 3, , , Has +1 Attack for each Imp you control.
+75881,Sire Denathrius,NEUTRAL, 10, 10, 10, , , <b><b>Lifesteal</b>.</b> <b>Battlecry:</b> Deal 5 damage amongst enemies. <b>Endlessly Infuse ( ):</b> Deal 1 more.
+62873,Desperate Prayer,PRIEST, 0, , , , , Restore 5 Health to each hero.
+64320,Granite Forgeborn,SHAMAN, 4, 4, 5, , , <b>Battlecry:</b> Reduce the Cost of Elementals in your hand and deck by (1).
+72109,Excavation Specialist,NEUTRAL, 4, 3, 6, , , <b>Battlecry:</b> <b>Dredge</b>. Reduce its Cost by (1).
+70022,Luminous Geode,PRIEST, 2, 1, 4, , , After a friendly minion is healed, give it +2 Attack.
+71290,Drakefire Amulet,MAGE, 10, , , , , <b>Tradeable</b> <b>Discover</b> 2 Dragons. Summon them.
+78117,Dispose of Evidence,DEMONHUNTER, 0, , , , , Give your hero +3 Attack this turn. Choose a card in your hand to shuffle into your deck.
+76224,Ancient Krakenbane,HUNTER, 3, 3, 3, , , <b>Battlecry:</b> If you've cast three spells while holding this, deal 5 damage. <i>( left!)</i> <i>(Ready!)</i>
+75866,Suspicious Alchemist,MAGE, 1, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a spell. If your opponent guesses your choice, they get a copy.
+70027,Najak Hexxen,PRIEST, 4, 1, 4, , , <b>Battlecry:</b> Take control of an enemy minion. <b>Deathrattle:</b> Give the minion back.
+75555,Submerged Spacerock,MAGE, 2, 2, 2, , , <b>Deathrattle:</b> Add two Arcane Mage spells to your hand. At the end of your turn, discard them.
+63040,Celestial Alignment,DRUID, 8, , , , , Set your Mana Crystals to 0. Set the Cost of cards in your hand and deck to (1).
+62878,Condemn (Rank 1),PRIEST, 2, , , , , Deal 1 damage to all enemy minions. <i>(Upgrades when you have 5 Mana.)</i>
+66868,Ysera the Dreamer,NEUTRAL, 9, 4, 12, , , <b>Battlecry:</b> Add one of each Dream card to your hand.
+64397,Jace Darkweaver,DEMONHUNTER, 8, 7, 5, , , <b>Battlecry:</b> Cast all Fel spells you've played this game <i>(targets enemies if possible)</i>.
+72250,Redgill Razorjaw,NEUTRAL, 2, 3, 1, , , <b>Rush</b>
+85649,Nerubian Flyer,DRUID, 2, 2, 3, , , <b>Battlecry:</b> If a friendly Undead died after your last turn, summon a 2/2 Nerubian.
+86487,Jolly Roger,ROGUE, 1, 1, 3, , , After your hero attacks, summon a 1/1 Undead Pirate.
+78644,Deathbringer Saurfang,DEATHKNIGHT, 5, 3, 5, , , <b>Taunt</b> <b>Deathrattle:</b> Return this to your hand. It costs Health instead of Mana.
+64716,Mo'arg Forgefiend,NEUTRAL, 8, 8, 8, , , <b>Taunt</b> <b>Deathrattle:</b> Gain 8 Armor.
+79596,Life Sentence,MAGE, 4, , , , , Remove a minion from the game.
+77556,Door of Shadows,ROGUE, 1, , , , , Draw a spell. <b>Infuse ( ):</b> Add a temporary copy of it to your hand.
+73424,Holy Maki Roll,PALADIN, 1, , , , , Restore 2 Health. Repeatable this turn.
+72897,Urchin Spines,HUNTER, 1, , , , , Your spells this turn are <b>Poisonous</b>.
+79503,Asphyxiate,DEATHKNIGHT, 3, , , , , Destroy the highest Attack enemy minion.
+85041,Lingering Zombie,DRUID, 1, 1, 1, , , <b>Deathrattle:</b> Summon a 1/1 Disarmed Zombie with "<b>Deathrattle:</b> Summon a 1/1 Zombie."
+69706,Stand Against Darkness,PALADIN, 4, , , , , Summon five 1/1 Silver Hand Recruits.
+63380,Southsea Scoundrel,NEUTRAL, 4, 5, 5, , , <b>Battlecry:</b> <b>Discover</b> a card in your opponent's deck. They draw theirs as well.
+69550,Innervate,DRUID, 0, , , , , Gain 1 Mana Crystal this turn only.
+76319,Tar Creeper,NEUTRAL, 3, 1, 5, , , <b>Taunt</b> Has +2 Attack during your opponent's turn.
+76272,Pyroblast,MAGE, 10, , , , , Deal 10 damage.
+78153,Priest of the Deceased,NEUTRAL, 2, 2, 3, , , <b>Taunt</b> <b>Infuse ( ):</b> Gain +2/+2.
+78320,Plague Strike,DEATHKNIGHT, 2, , , , , Deal 3 damage to a minion. If that kills it, summon a 2/2 Zombie with <b>Rush</b>.
+77525,Death Blossom Whomper,DRUID, 5, 6, 5, , , <b>Battlecry:</b> Draw a <b>Deathrattle</b> minion and gain its <b>Deathrattle.</b>
+74886,Raj Naz'jan,HUNTER, 2, 2, 3, , , After you cast a spell, deal damage equal to its Cost to the enemy Hero.
+79992,Dinner Performer,NEUTRAL, 3, 2, 3, , , <b>Battlecry:</b> Summon a random minion from your deck that you can afford to play.
+86574,Faithful Companions,HUNTER, 7, , , , , <b>Discover</b> a Beast from your deck and summon it. <b>Manathirst ( ):</b> Also summon a copy of it.
+67207,Pathmaker,DRUID, 3, 3, 4, , , <b>Battlecry:</b> Cast the other choice from the last <b>Choose One</b> spell you've cast. <b>Battlecry:</b>
+78363,Imp King Rafaam,WARLOCK, 6, 6, 6, , , <b>Battlecry:</b> Resurrect four friendly Imps. <b>Infuse ( ):</b> Give your Imps +2/+2.
+84426,Magister's Apprentice,MAGE, 2, 3, 2, , , Your Arcane spells cost (1) less.
+86567,ZOMBEEEES!!!,HUNTER, 2, , , , , <b>Secret:</b> After your opponent plays a minion, summon four 1/1 Zombees to attack it.
+65591,Righteous Defense,PALADIN, 3, , , , , Set a minion's Attack and Health to 1. Give the stats it lost to a minion in your hand.
+78146,Stewart the Steward,PALADIN, 3, 3, 3, , , <b>Deathrattle:</b> Give the next Silver Hand Recruit you summon +3/+3 and this <b>Deathrattle</b>.
+84219,From De Other Side,SHAMAN, 10, , , , , Summon a copy of each minion in your hand. They attack random enemy minions, then die.
+86655,Knight of the Dead,PALADIN, 3, 5, 5, , , <b>Battlecry:</b> Deal 5 damage to your hero. <b>Manathirst (7):</b> Restore 5 Health to your hero instead.
+73434,The Garden's Grace,PALADIN, 10, , , , , Give a minion +5/+5 and <b>Divine Shield</b>. Costs (1) less for each Mana you've spent on Holy spells this game.
+71949,Naga Giant,NEUTRAL, 20, 8, 8, , , Costs (1) less for each Mana you've spent on spells this game.
+63029,Thickhide Kodo,DRUID, 4, 3, 5, , , <b>Taunt</b> <b>Deathrattle:</b> Gain 5 Armor.
+65704,Multicaster,NEUTRAL, 4, 3, 4, , , <b>Battlecry:</b> Draw a card for each different spell school you've cast this game. <i>( )</i>
+85047,Unending Swarm,DRUID, 6, , , , , Resurrect all friendly minions that cost (2) or less.
+63332,Lady Anacondra,DRUID, 6, 3, 7, , , Your Nature spells cost (2) less.
+85640,Silvermoon Armorer,NEUTRAL, 4, 4, 4, , , <b>Rush</b> <b>Manathirst ( ):</b> Gain +2/+2.
+64629,Metamorfin,DEMONHUNTER, 1, 1, 2, , , <b>Taunt</b> <b>Battlecry:</b> If you've cast a Fel spell this turn, gain +2/+2.
+71250,Onyxian Drake,WARRIOR, 4, 4, 5, , , <b>Taunt</b> <b>Battlecry:</b> Deal damage equal to your Armor to an enemy minion.
+64163,SI:7 Assassin,ROGUE, 7, 4, 4, , , Costs (1) less for each SI:7 card you've played this game. <b>Combo:</b> Destroy an enemy minion.
+71701,Baba Naga,NEUTRAL, 4, 4, 4, , , <b>Battlecry:</b> If you've cast a spell while holding this, deal 3 damage.
+78333,Corpse Explosion,DEATHKNIGHT, 5, , , , , Detonate a <b>Corpse</b> to deal 1 damage to all minions. If any are still alive, repeat this.
+65610,Proving Grounds,DEMONHUNTER, 6, , , , , Summon two minions from your deck. They fight!
+70011,Rune of the Archmage,MAGE, 9, , , , , Cast 20 Mana worth of Mage spells at enemies.
+72495,Pirate Admiral Hooktusk,ROGUE, 8, 8, 8, , , <b>Battlecry:</b> If you've summoned 8 other Pirates this game, plunder the enemy! <i>( left!)</i> <i>(Ready!)</i>
+64970,The Rat King,HUNTER, 5, 5, 5, , , <b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Revive after 5 friendly minions die.
+69652,Big Game Hunter,NEUTRAL, 4, 4, 2, , , <b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+64894,Dark Alley Pact,WARLOCK, 4, , , , , Summon a Fiend with stats equal to your hand size.
+79607,Perjury,ROGUE, 2, , , , , <b>Secret:</b> When your turn starts, <b>Discover</b> and cast a <b>Secret</b> from another class.
+70012,To the Front!,WARRIOR, 2, , , , , Your minions cost (2) less this turn <i>(but not less than 1)</i>.
+86733,Blightfang,DEATHKNIGHT, 4, 3, 4, , , <b>Battlecry:</b> Infect all enemy minions. When they die, you summon a 2/2 Zombie with <b>Taunt</b>.
+75556,Polymorph: Jellyfish,MAGE, 3, , , , , Transform a minion into a 4/1 Jellyfish with <b>Spell Damage +2</b>.
+63073,Wailing Vapor,SHAMAN, 1, 1, 3, , , After you play an Elemental, gain +1 Attack.
+84301,Sunfury Champion,WARRIOR, 1, 1, 3, , , After you cast a Fire spell, deal 1 damage to all minions.
+63219,Neeru Fireblade,WARLOCK, 5, 5, 5, , , <b>Battlecry:</b> If your deck is empty, open a portal that fills your board with 3/2 Imps each turn.
+63124,Mor'shan Elite,WARRIOR, 5, 4, 4, , , <b>Taunt</b>. <b>Battlecry:</b> If your hero attacked this turn, summon a copy of this.
+69502,Flamestrike,MAGE, 7, , , , , Deal 5 damage to all enemy minions.
+63217,Barrens Scavenger,WARLOCK, 6, 6, 6, , , <b>Taunt</b> Costs (1) while your deck has 10 or fewer cards.
+70106,Wing Commander Ichman,HUNTER, 9, 5, 4, , , <b>Battlecry:</b> Summon a Beast from your deck and give it <b>Rush</b>. If it kills a minion this turn, repeat.
+69610,Noble Sacrifice,PALADIN, 1, , , , , <b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target.
+76276,Northshire Cleric,PRIEST, 1, 1, 3, , , Whenever a minion is healed, draw a card.
+62811,Sunscale Raptor,HUNTER, 1, 1, 3, , , <b>Frenzy:</b> Shuffle a Sunscale Raptor into your deck with permanent +2/+1.
+71237,Keen Reflex,DEMONHUNTER, 2, , , , , Deal 1 damage to all minions. <b>Honorable Kill:</b> Gain +1 Attack this turn.
+69688,Feral Rage,DRUID, 3, , , , , <b>Choose One -</b> Give your hero +4 Attack this turn; or Gain 8 Armor.
+80648,Remorseless Winter,DEATHKNIGHT, 4, , , , , Deal 2 damage to all enemies. Draw a card.
+69508,Holy Nova,PRIEST, 3, , , , , Deal 2 damage to all enemy minions. Restore 2 Health to all friendly characters.
+63370,Stealer of Souls,WARLOCK, 4, 2, 6, , , The first card you draw each turn costs Health instead of Mana.
+76304,Bash,WARRIOR, 2, , , , , Deal 3 damage. Gain 3 Armor.
+67892,Sigil of Reckoning,DEMONHUNTER, 5, , , , , At the start of your next turn, summon a random Demon from your hand.
+63331,Primal Dungeoneer,SHAMAN, 3, 2, 3, , , <b>Battlecry:</b> Draw a spell. If it's a Nature spell, also draw an Elemental.
+72929,Gifts of Azshara,MAGE, 2, , , , , Draw a card. If you played a Naga while holding this, do it again.
+63329,Fangbound Druid,DRUID, 3, 4, 3, , , <b>Taunt</b> <b>Deathrattle:</b> Reduce the Cost of a Beast in your hand by (2).
+86621,Mind Sear,PRIEST, 1, , , , , Deal 2 damage to a minion. If it dies, deal 3 damage to the enemy hero.
+78273,Batty Guest,HUNTER, 1, 1, 1, , , <b>Deathrattle:</b> Summon a 2/1 Bat.
+74741,Gigafin,WARLOCK, 8, 7, 4, , , <b>Colossal +1</b>. <b>Battlecry:</b> Devour all enemy minions. <b>Deathrattle:</b> Spit them back out.
+86557,Silvermoon Arcanist,NEUTRAL, 3, 2, 2, , , <b>Spell Damage +2</b> <b>Battlecry:</b> Your spells can�t target heroes this turn.
+69707,Flash Heal,PRIEST, 1, , , , , Restore 5 Health.
+79742,Incriminating Psychic,PRIEST, 4, 2, 6, , , <b>Taunt</b> <b>Deathrattle:</b> Copy a random card from your opponent's hand.
+84395,For Quel'Thalas!,PALADIN, 2, , , , , Give a friendly minion +3 Attack. Give your hero +2 Attack this turn.
+85152,Foul Egg,NEUTRAL, 1, 0, 2, , , <b>Deathrattle:</b> Summon a 3/3 Undead Chicken.
+71333,Raid Boss Onyxia,NEUTRAL, 10, 8, 8, , , <b>Rush</b>. <b>Immune</b> while you control a Whelp. <b>Battlecry:</b> Summon six 2/1 Whelps with <b>Rush</b>.
+65619,Brilliant Macaw,SHAMAN, 3, 3, 3, , , <b>Battlecry:</b> Repeat the last <b>Battlecry</b> you played.
+78122,Relic of Dimensions,DEMONHUNTER, 6, , , , , Draw two cards and reduce their Cost by ( ). Improve your future Relics.
+84230,Mark of Scorn,DEMONHUNTER, 2, , , , , Draw a card. If it's not a minion, deal 3 damage to the lowest Health enemy.
+63220,Imp Swarm (Rank 1),WARLOCK, 2, , , , , Summon a 3/2 Imp. <i>(Upgrades when you have 5 Mana.)</i>
+63125,Rokara,WARRIOR, 3, 2, 3, , , <b>Rush</b> After a friendly minion attacks and survives, give it +1/+1.
+74672,Trenchstalker,WARRIOR, 9, 8, 9, , , <b>Battlecry:</b> Attack three different random enemies.
+64661,Blessed Goods,PALADIN, 1, , , , , <b>Discover</b> a <b>Secret</b>, weapon, or <b>Divine Shield</b> minion.
+71944,Vicious Slitherspear,NEUTRAL, 1, 1, 3, , , After you cast a spell, gain +1 Attack until your next turn.
+80708,Lady Deathwhisper,DEATHKNIGHT, 4, 4, 3, , , <b>Deathrattle:</b> Copy all Frost spells in your hand.
+69713,Nerubian Egg,NEUTRAL, 2, 0, 2, , , <b>Deathrattle:</b> Summon a 4/4 Nerubian.
+65692,Defias Cannoneer,WARRIOR, 3, 3, 3, , , After your hero attacks, deal 2 damage to a random enemy twice.
+64279,Shiver Their Timbers!,WARRIOR, 1, , , , , Deal 2 damage to a minion. If you control a Pirate, deal 5 instead.
+72925,Trench Surveyor,MAGE, 2, 3, 2, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a Mech, draw it.
+75586,Tidelost Burrower,SHAMAN, 4, 4, 4, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a Murloc, summon a 2/2 copy of it.
+85651,Banshee,NEUTRAL, 1, 2, 1, , , <b>Deathrattle:</b> Give a random friendly Undead +2/+1.
+83942,Noxious Infiltrator,ROGUE, 4, 2, 5, , , <b>Poisonous</b> <b>Battlecry:</b> If a friendly Undead died after your last turn, deal 1 damage to a minion.
+72338,Security Automaton,NEUTRAL, 2, 1, 3, , , After you summon a Mech, gain +1/+1.
+64965,Ramming Mount,HUNTER, 3, , , , , Give a minion +2/+2 and <b>Immune</b> while attacking. When it dies, summon a Ram.
+71241,Boomkin,DRUID, 5, 4, 5, , , <b>Choose One - </b>Restore 8 Health to your hero; or Deal 4 damage.
+65580,Druid of the Reef,DRUID, 1, 1, 1, , , <b>Choose One - </b>Transform into a 3/1 Shark with <b>Rush</b>; or a 1/3 Turtle with <b>Taunt</b>.
+69679,Southsea Captain,NEUTRAL, 3, 3, 3, , , Your other Pirates have +1/+1.
+72117,Bone Glaive,DEMONHUNTER, 5, 5, , 2, , <b>Battlecry:</b> <b>Dredge</b>.
+73721,Wayward Sage,DEMONHUNTER, 2, 2, 2, , , <b>Outcast:</b> Reduce the Cost of the left and right-most cards in your hand by (1).
+63118,Outrider's Axe,WARRIOR, 4, 3, , 3, , After your hero attacks and kills a minion, draw a card.
+69734,Fiendish Circle,WARLOCK, 3, , , , , Summon four 1/1 Imps.
+77018,Seafloor Savior,PALADIN, 2, 2, 2, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a minion, give it this minion's Attack and Health.
+72923,Queen Azshara,NEUTRAL, 5, 5, 5, , , <b>Battlecry:</b> If you've cast three spells while holding this, choose an Ancient Relic. <i>( left!)</i> <i>(Ready!)</i>
+67861,Sleetbreaker,SHAMAN, 2, 3, 2, , , <b>Battlecry:</b> Add a Windchill to your hand.
+70232,Legionnaire,NEUTRAL, 6, 9, 3, , , <b>Deathrattle:</b> Give all minions in your hand +2/+2.
+80089,Acolyte of Death,DEATHKNIGHT, 3, 3, 4, , , After a friendly Undead dies, draw a card.
+72931,Mothership,NEUTRAL, 6, 5, 4, , , <b>Rush</b> <b>Deathrattle:</b> Summon two random Mechs that cost (3) or less.
+80091,Bone Flinger,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> If a friendly Undead died after your last turn, deal 2 damage.
+77615,Relic Vault,DEMONHUNTER, 2, , 2, , , The next Relic you play this turn casts twice.
+65590,Sunwing Squawker,PALADIN, 4, 3, 4, , , <b>Battlecry:</b> Repeat the last spell you've cast on a friendly minion on this.
+84390,Vexallus,MAGE, 5, 3, 5, , , Your Arcane spells cast twice.
+63070,Primordial Protector,NEUTRAL, 8, 6, 6, , , <b>Battlecry:</b> Draw your highest Cost spell. Summon a random minion with the same Cost.
+71236,Bracing Cold,SHAMAN, 2, , , , , Restore 5 Health to your hero. Reduce the Cost of a random spell in your hand by (2).
+66869,Malygos the Spellweaver,NEUTRAL, 9, 4, 12, , , <b>Battlecry:</b> Draw spells until your hand is full.
+86092,Shadow of Demise,ROGUE, 0, , , , , Each time you cast a spell, transform this into a copy of it.
+62705,Oasis Thrasher,NEUTRAL, 2, 2, 3, , , <b>Frenzy:</b> Deal 3 damage to the enemy hero.
+78111,Sinful Brand,DEMONHUNTER, 2, , , , , Brand an enemy minion. Whenever it takes damage, deal 1 damage to the enemy hero.
+69594,Nourish,DRUID, 5, , , , , <b>Choose One -</b> Gain 2 Mana Crystals; or Draw 3 cards.
+68061,Caria Felsoul,DEMONHUNTER, 6, 6, 6, , , <b>Battlecry:</b> Transform into a 6/6 copy of a Demon in your deck.
+90325,Lost Exarch,NEUTRAL, 4, 5, 4, , , <b>Deathrattle</b>: Spend all your Mana. Summon that many 2/2 Zombies with <b>Rush</b>.
+76975,Convincing Disguise,SHAMAN, 1, , , , , Transform a friendly minion into one that costs (2) more. <b>Infuse ( ):</b> Transform all friendly minions instead.
+79548,Objection!,MAGE, 3, , , , , <b>Secret:</b> When your opponent plays a minion, <b>Counter</b> it.
+86537,High Priestess Jeklik,WARLOCK, 4, 3, 5, , , <b>Taunt</b>, <b>Lifesteal</b> When you discard this, add 2 copies of it to your hand.
+69593,Power of the Wild,DRUID, 2, , , , , <b>Choose One -</b> Give your minions +1/+1; or Summon a 3/2 Panther.
+67193,Shield Shatter,WARRIOR, 10, , , , , Deal 5 damage to all minions. Costs (1) less for each Armor you have.
+76317,Doomsayer,NEUTRAL, 2, 0, 7, , , At the start of your turn, destroy ALL minions.
+72482,Illuminate,PRIEST, 0, , , , , <b>Dredge</b>. If it's a spell, reduce its Cost by (3).
+76302,Shield Block,WARRIOR, 2, , , , , Gain 5 Armor. Draw a card.
+69532,Consecration,PALADIN, 3, , , , , Deal 2 damage to all enemies.
+64008,Encumbered Pack Mule,NEUTRAL, 2, 2, 3, , , <b>Taunt</b> When you draw this, add a copy of it to your hand.
+64631,Aimed Shot,HUNTER, 3, , , , , Deal 3 damage. Your next Hero Power deals 2 more damage.
+85621,Enchanter,NEUTRAL, 3, 1, 5, , , Your end of turn effects trigger twice.
+64964,Leatherworking Kit,HUNTER, 1, 0, , 3, , After three friendly Beasts die, draw a Beast and give it +1/+1. Lose 1 Durability.
+86439,Spectral Trainee,MAGE, 3, 1, 4, , , After you cast a spell, deal 1 damage to all enemy minions.
+75072,Fossil Fanatic,DEMONHUNTER, 2, 2, 2, , , After your hero attacks, draw a Fel spell.
+66874,Coldtooth Yeti,ROGUE, 3, 1, 5, , , <b>Combo:</b> Gain +3 Attack.
+75922,Suspicious Usher,PRIEST, 1, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a <b>Legendary</b> minion. If your opponent guesses your choice, they get a copy.
+90644,Mind Eater,PRIEST, 2, 3, 2, , , <b>Deathrattle:</b> Add a copy of a card in your opponent's deck to your hand.
+76324,Azure Drake,NEUTRAL, 5, 4, 5, , , <b>Spell Damage +1</b> <b>Battlecry:</b> Draw a card.
+84169,Volatile Skeleton,NEUTRAL, 4, , , , , Summon two 2/2 Volatile Skeletons. Gain 4 Armor.
+78143,Sinful Sous Chef,PALADIN, 1, 2, 1, , , <b>Deathrattle:</b> Add 2 Silver Hand Recruits to your hand.
+64729,"Varian, King of Stormwind",NEUTRAL, 8, 7, 7, , , <b>Battlecry:</b> Draw a <b>Rush</b> minion to gain <b>Rush</b>. Repeat for <b>Taunt</b> and <b>Divine Shield</b>.
+66951,"Kurtrus, Demon-Render",DEMONHUNTER, 6, , 30, , 5, <b>Battlecry:</b> Summon two /4 Demons with <b>Rush</b>. <i>(Improved by your hero attacks this game.)</i>
+79780,"Sylvanas, the Accused",NEUTRAL, 6, 5, 5, , , <b>Battlecry:</b> Destroy an enemy minion. <b>Infuse ( ):</b> Take control of it instead.
+76320,Lifedrinker,NEUTRAL, 4, 3, 3, , , <b>Battlecry:</b> Deal 3 damage to the enemy hero. Restore 3 Health to your hero.
+76330,Cobalt Scalebane,NEUTRAL, 5, 5, 5, , , At the end of your turn, give another random friendly minion +3 Attack.
+72896,Azsharan Saber,HUNTER, 4, 4, 3, , , <b><b>Rush</b>.</b> <b>Deathrattle:</b> Put a 'Sunken Saber' on the bottom of your deck.
+69632,Al'Akir the Windlord,SHAMAN, 8, 3, 6, , , <b>Charge, Divine Shield, Taunt, Windfury</b>
+69740,Eye Beam,DEMONHUNTER, 3, , , , , <b>Lifesteal</b>. Deal 3 damage to a minion. <b>Outcast:</b> This costs (1).
+76926,Bloodscent Vilefin,WARLOCK, 3, 3, 4, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a Murloc, change its Cost to Health instead of Mana.
+78345,Vampiric Blood,DEATHKNIGHT, 2, , , , , Give your hero +5 Health. Spend 3 <b>Corpses</b> to gain 5 more and draw a card.
+86548,Gorillabot A-3,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> If you control another Mech, <b>Discover</b> a Mech.
+64384,Wickerclaw,DRUID, 2, 1, 4, , , After your hero gains Attack, this minion gains +2 Attack.
+70261,Brasswing,PALADIN, 8, 9, 7, , , At the end of your turn, deal 2 damage to all enemies. <b>Honorable Kill:</b> Restore 4 Health to your hero.
+77151,Kidnap,ROGUE, 2, , , , , <b>Secret:</b> After your opponent plays a minion, stuff it in a 0/4 Sack.
+85053,Elder Nadox,DRUID, 5, 5, 4, , , <b>Battlecry:</b> Destroy a friendly Undead. Your minions gain its Attack.
+77659,Cold Case,MAGE, 4, , , , , Summon two 2/2 Volatile Skeletons. Gain 4 Armor.
+67352,Snowblind Harpy,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> If you're holding a Frost spell, gain 5 Armor.
+64349,Seek Guidance,PRIEST, 1, , , , , <b>Questline:</b> Play a 2, 3, and 4-Cost card. <b>Reward:</b> <b>Discover</b> a card from your deck.
+63071,Tinyfin's Caravan,SHAMAN, 2, 1, 3, , , At the start of your turn, draw a Murloc.
+81961,Might of Menethil,DEATHKNIGHT, 4, 4, , 2, , <b>Battlecry:</b> Spend up to 3 <b>Corpses</b>. <b>Freeze</b> that many enemy minions.
+63088,Warsong Wrangler,HUNTER, 4, 3, 4, , , <b>Battlecry:</b> <b>Discover</b> a Beast from your deck. Give all copies of it +2/+1 <i>(wherever they are)</i>.
+77616,Relic of Phantasms,DEMONHUNTER, 3, , , , , Summon two / Spirits. Improve your future Relics.
+67241,Spring the Trap,HUNTER, 4, , , , , Deal 3 damage to a minion and cast a <b>Secret</b> from your deck. <b>Honorable Kill:</b> Cast 2.
+71712,Colaque,DRUID, 7, 6, 5, , , <b>Colossal +1</b> <b>Immune</b> while you control Colaque's Shell.
+80664,Blood Tap,DEATHKNIGHT, 2, , , , , Give all minions in your hand +1/+1. Spend 2 <b>Corpses</b> to give them +1/+1 more.
+78262,Riot!,WARRIOR, 2, , , , , Your minions can't be reduced below 1 Health this turn. They each attack a random enemy minion.
+69539,Kobold Geomancer,NEUTRAL, 2, 2, 2, , , <b>Spell Damage +1</b>
+65597,Blackwater Cutlass,ROGUE, 1, 2, , 2, , <b>Tradeable</b> After you <b>Trade</b> this, reduce the Cost of a spell in your hand by (1).
+75583,Neptulon the Tidehunter,NEUTRAL, 10, 7, 7, , , <b>Colossal +2</b>, <b>Rush</b>, <b>Windfury</b> Whenever Neptulon attacks, if you control any Hands, they attack instead.
+73459,Axe Berserker,WARRIOR, 4, 3, 5, , , <b>Rush</b>. <b>Honorable Kill:</b> Draw a weapon.
+67760,Dreadlich Tamsin,WARLOCK, 6, , 30, , 5, <b>Battlecry:</b> Deal 3 damage to all minions. Shuffle 3 Rifts into your deck. Draw 3 cards.
+84354,Frozen Touch,MAGE, 2, , , , , Deal 3 damage. <b>Infuse ( ):</b> Add a Frozen Touch to your hand.
+69537,Raid Leader,NEUTRAL, 3, 2, 3, , , Your other minions have +1 Attack.
+77562,Nightshade Bud,DRUID, 8, , , , , <b>Choose One - </b><b>Discover</b> a minion from your deck to summon; or a spell to cast.
+82067,Bone Breaker,DEATHKNIGHT, 1, 2, , 2, , After your hero attacks a minion, deal 2 damage to the enemy hero.
+77679,Topior the Shrubbagazzor,DRUID, 7, 5, 5, , , <b>Battlecry:</b> For the rest of the game, after you cast a Nature spell, summon a 3/3 Whelp with <b>Rush</b>.
+84291,Sunfire Smithing,WARRIOR, 4, , , , , Equip a 4/2 Sword. Give a random minion in your hand +4/+2.
+71917,Murkwater Scribe,NEUTRAL, 2, 3, 2, , , <b>Battlecry:</b> The next spell you play costs (1) less.
+66870,Nozdormu the Eternal,NEUTRAL, 7, 8, 8, , , <b>Start of Game:</b> If this is in BOTH players' decks, turns are only 15 seconds long.
+69665,Loot Hoarder,NEUTRAL, 2, 2, 1, , , <b>Deathrattle:</b> Draw a card.
+63334,Serpentbloom,HUNTER, 0, , , , , Give a friendly Beast <b>Poisonous</b>.
+64724,City Architect,NEUTRAL, 6, 4, 4, , , <b>Battlecry:</b> Summon two 0/5 Castle Walls with <b>Taunt</b>.
+62586,Kargal Battlescar,NEUTRAL, 7, 5, 5, , , <b>Battlecry:</b> Summon a 5/5 Lookout for each Watch Post you've summoned this game.
+69660,Youthful Brewmaster,NEUTRAL, 2, 3, 2, , , <b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.
+69625,Lightning Bolt,SHAMAN, 1, , , , , Deal 3 damage. <b>Overload:</b> (1)
+87285,Suspicious Peddler,WARLOCK, 2, 2, 3, , , <b>Battlecry:</b> <b>Discover</b> a 1-Cost card. If your opponent guesses your choice, they get a copy.
+70247,Frostsaber Matriarch,DRUID, 7, 4, 5, , , <b>Taunt</b>. Costs (1) less for each Beast you've summoned this game.
+72120,Blackscale Brute,WARRIOR, 7, 5, 6, , , <b>Taunt</b>. <b>Battlecry:</b> If you have a weapon equipped, summon a 5/6 Naga with <b>Rush</b>.
+72212,Azsharan Sentinel,NEUTRAL, 5, 5, 6, , , <b>Taunt</b>. <b>Deathrattle:</b> Put a 'Sunken Sentinel' on the bottom of your deck.
+64708,Florist,NEUTRAL, 7, 4, 4, , , At the end of your turn, reduce the Cost of a random minion in your hand by (7).
+66887,Popsicooler,NEUTRAL, 3, 3, 3, , , <b>Deathrattle:</b> <b>Freeze</b> two random enemy minions.
+78144,Order in the Court,PALADIN, 2, , , , , Reorder your deck from highest Cost to lowest Cost. Draw a card.
+86234,Earthen Scales,DRUID, 2, , , , , Give a friendly minion +1/+1, then gain Armor equal to its Attack.
+86732,Overseer Frigidara,DEATHKNIGHT, 6, 3, 6, , , <b>Battlecry:</b> Draw 2 spells. If they're both Frost spells, deal 2 damage to all enemies.
+64430,First Flame,MAGE, 1, , , , , Deal 2 damage to a minion. Add a Second Flame to your hand.
+65603,Doggie Biscuit,HUNTER, 2, , , , , <b>Tradeable</b> Give a minion +2/+3. After you <b>Trade</b> this, give a friendly minion <b>Rush</b>.
+72533,Swiftscale Trickster,ROGUE, 4, 2, 2, , , <b>Battlecry:</b> Your next spell this turn costs (0).
+73712,Dozing Kelpkeeper,DRUID, 1, 4, 4, , , <b>Rush</b>. Starts <b>Dormant</b>. After you've cast 5 Mana worth of spells, awaken.
+77311,Imbued Axe,WARRIOR, 3, 2, , 3, , After your hero attacks, give your damaged minions +1/+2. <b>Infuse ( ):</b> +2/+2 instead.
+86572,Tenacious San'layn,NEUTRAL, 5, 4, 6, , , <b>Lifesteal</b> Whenever this attacks, deal 2 damage to the enemy hero.
+67243,Ice Trap,HUNTER, 2, , , , , <b>Secret:</b> When your opponent casts a spell, return it to their hand instead. It costs (1) more.
+78607,Infected Peasant,NEUTRAL, 2, 2, 1, , , <b>Deathrattle:</b> Summon a 2/2 Undead Peasant.
+76281,Voidwalker,WARLOCK, 4, , , , , Deal 3 damage. Summon two 1/3 Voidwalkers with <b>Taunt</b>.
+63464,Cleric of An'she,PRIEST, 1, 1, 2, , , <b>Battlecry:</b> If you've restored Health this turn, <b>Discover</b> a spell from your deck.
+73442,Dragged Below,WARLOCK, 3, , , , , Deal 4 damage to a minion. Give your opponent an Abyssal Curse.
+63188,Xyrella,PRIEST, 4, 4, 4, , , <b>Battlecry:</b> If you've restored Health this turn, deal that much damage to all enemy minions.
+71694,Multi-Strike,DEMONHUNTER, 2, , , , , Give your hero +2 Attack this turn. They may attack an additional enemy minion.
+64277,Harbor Scamp,WARRIOR, 2, 2, 2, , , <b>Battlecry:</b> Draw a Pirate.
+69717,Explosive Sheep,NEUTRAL, 2, 1, 1, , , <b>Deathrattle:</b> Deal 2 damage to all minions.
+63192,Soul Rend,WARLOCK, 4, , , , , Deal 5 damage to all minions. Destroy a card in your deck for each killed.
+66953,Wildheart Guff,DRUID, 5, , 30, , 5, <b>Battlecry:</b> Set your maximum Mana to 20. Gain an empty Mana Crystal. Draw a card.
+84428,Arcane Defenders,MAGE, 8, , , , , Summon two 5/6 Golems with <b>Taunt</b> and "Can't be targeted by spells or Hero Powers."
+70025,Bless,PRIEST, 2, , , , , Give a minion +2 Health, then set its Attack to be equal to its Health.
+85048,Infectious Ghoul,NEUTRAL, 5, 5, 4, , , <b>Deathrattle:</b> Give a random friendly minion "<b>Deathrattle:</b> Summon an Infectious Ghoul."
+69565,Elven Archer,NEUTRAL, 1, 1, 1, , , <b>Battlecry:</b> Deal 1 damage.
+80644,Alexandros Mograine,DEATHKNIGHT, 7, 7, 7, , , <b>Battlecry:</b> For the rest of the game, deal 3 damage to your opponent at the end of your turns.
+70395,Wildpaw Gnoll,ROGUE, 5, 3, 5, , , <b>Rush</b> Costs (1) less for each non-Rogue Class card added to your hand this game.
+63701,Stonemaul Anchorman,WARRIOR, 5, 4, 6, , , <b>Rush</b> <b>Frenzy:</b> Draw a card.
+86132,Rotgill,SHAMAN, 5, 3, 6, , , <b>Battlecry:</b> Give your other minions "<b>Deathrattle:</b> Give your minions +1/+1."
+78393,Elitist Snob,PALADIN, 5, 3, 4, , , <b>Battlecry:</b> For each Paladin card in your hand, randomly gain <b>Divine Shield</b>, <b>Lifesteal</b>, <b>Rush</b>, or <b>Taunt</b>.
+62890,Wicked Stab (Rank 1),ROGUE, 2, , , , , Deal 2 damage. <i>(Upgrades when you have 5 Mana.)</i>
+63062,Wildfire,MAGE, 1, , , , , Your Hero Power deals 1 more damage this game.
+72111,Azsharan Vessel,ROGUE, 5, , , , , Summon two 3/3 Pirates with <b>Stealth</b>. Put a 'Sunken Vessel' on the bottom of your deck.
+64396,Felgorger,DEMONHUNTER, 4, 4, 3, , , <b>Battlecry:</b> Draw a Fel spell. Reduce its Cost by (2).
+63553,Oasis Ally,MAGE, 3, , , , , <b>Secret:</b> When a friendly minion is attacked, summon a 3/6 Water Elemental.
+63229,Tuskpiercer,DEMONHUNTER, 1, 1, , 2, , <b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion.
+76322,Sea Giant,NEUTRAL, 10, 8, 8, , , Costs (1) less for each other minion on the battlefield.
+84232,Fierce Outsider,DEMONHUNTER, 1, 2, 1, , , <b>Rush</b> <b>Outcast:</b> Your next <b>Outcast</b> card costs (1) less.
+76984,"Theotar, the Mad Duke",NEUTRAL, 6, 4, 4, , , <b>Battlecry:</b> <b>Discover</b> a card in each player's hand and swap them.
+63358,Shroud of Concealment,ROGUE, 3, , , , , Draw 2 minions. Any played this turn gain <b>Stealth</b> for 1 turn.
+69509,Holy Smite,PRIEST, 1, , , , , Deal 3 damage to a minion.
+73068,Ini Stormcoil,NEUTRAL, 5, 4, 4, , , <b>Battlecry:</b> Choose a friendly Mech. Summon a copy of it with <b>Rush</b>, <b>Windfury</b>, and <b>Divine Shield</b>.
+63682,Fury (Rank 1),DEMONHUNTER, 1, , , , , Give your hero +2 Attack this turn. <i>(Upgrades when you have 5 Mana.)</i>
+64388,Vibrant Squirrel,DRUID, 1, 2, 1, , , <b>Deathrattle:</b> Shuffle 4 Acorns into your deck. When drawn, summon a 2/1 Squirrel.
+80663,Vicious Bloodworm,DEATHKNIGHT, 2, 3, 2, , , <b>Battlecry:</b> Give a minion in your hand Attack equal to this minion's Attack.
+63007,Kolkar Pack Runner,HUNTER, 2, 2, 3, , , After you cast a spell, summon a 1/1 Hyena with <b>Rush</b>.
+84244,Vengeful Walloper,DEMONHUNTER, 7, 5, 5, , , <b>Rush</b>. Costs (1) less for each <b>Outcast</b> card you've played this game.
+66876,"Rokara, the Valorous",WARRIOR, 7, , 30, , 10, <b>Battlecry:</b> Equip a 5/2 Unstoppable Force.
+79480,Lord Marrowgar,DEATHKNIGHT, 8, 9, 7, , , <b>Battlecry:</b> Raise ALL of your <b>Corpses</b> as 1/1 Risen Golems with <b>Rush</b>. For each that can't fit, give one +2/+2.
+70244,Abominable Lieutenant,NEUTRAL, 8, 3, 5, , , At the end of your turn, eat a random enemy minion and gain its stats.
+77296,Conqueror's Banner,WARRIOR, 2, , , , , Reveal a card from each player's deck, three times. Draw any of yours that cost more.
+63057,Refreshing Spring Water,MAGE, 5, , , , , Draw 2 cards. Refresh 2 Mana Crystals for each spell drawn.
+86626,Astalor Bloodsworn,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> Add Astalor, the Protector to your hand. <b>Manathirst ( ):</b> Deal 2 damage.
+86570,Trinket Tracker,HUNTER, 1, 1, 1, , , <b>Battlecry:</b> Draw a 1-Cost spell.
+62921,Judgment of Justice,PALADIN, 1, , , , , <b>Secret:</b> When an enemy minion attacks, set its Attack and Health to 1.
+86595,Nofin's Imp-ossible,WARLOCK, 2, , , , , Give all friendly Demons and Murlocs "<b>Deathrattle:</b> Summon a 2/2 Imploc."
+64394,Sigil of Alacrity,DEMONHUNTER, 1, , , , , At the start of your next turn, draw a card and reduce its Cost by (1).
+79546,Soul Seeker,NEUTRAL, 5, 3, 3, , , <b>Battlecry:</b> Swap this with a random minion from your opponent's deck.
+78641,Noxious Cadaver,DEATHKNIGHT, 1, 1, 2, , , <b>Battlecry</b>: Deal 2 damage to an enemy and your hero.
+63167,Death Speaker Blackthorn,DEMONHUNTER, 7, 3, 6, , , <b>Battlecry:</b> Summon 3 <b>Deathrattle</b> minions that cost (5) or less from your deck.
+76308,Metamorphosis,DEMONHUNTER, 4, , , , , Swap your Hero Power to "Deal 4 damage." After 2 uses, swap it back.
+80820,Corpse Bride,DEATHKNIGHT, 5, 4, 4, , , <b>Battlecry:</b> Spend up to 10 <b>Corpses</b>. Summon a Risen Groom with stats equal to the amount spent.
+63064,Mordresh Fire Eye,MAGE, 8, 8, 8, , , <b>Battlecry:</b> If you've dealt 10 damage with your Hero Power this game, deal 10 damage to all enemies. <i>( left!)</i> <i>(Ready!)</i>
+81206,Blood Boil,DEATHKNIGHT, 5, , , , , <b>Lifesteal</b> Infect all enemy minions. At the end of your turns, they take 2 damage.
+67825,Tamsin's Phylactery,WARLOCK, 4, , , , , <b>Discover</b> a friendly <b>Deathrattle</b> minion that died this game. Give your minions its <b>Deathrattle</b>.
+67574,Bloodseeker,HUNTER, 2, 2, , 2, , <b>Honorable Kill:</b> Gain +1/+1.
+78469,Relic of Extinction,DEMONHUNTER, 1, , , , , Deal damage to a random enemy minion, twice. Improve your future Relics.
+76277,Radiant Elemental,PRIEST, 2, 2, 3, , , Your spells cost (1) less.
+69691,Quick Shot,HUNTER, 2, , , , , Deal 3 damage. If your hand is empty, draw a card.
+79549,Sightless Magistrate,DEMONHUNTER, 4, 5, 4, , , <b>Battlecry:</b> Both players draw until they have 5 cards.
+77208,Cutlass Courier,ROGUE, 3, 2, 5, , , After your hero attacks, draw a Pirate.
+73436,Sira'kess Cultist,WARLOCK, 3, 3, 4, , , <b>Battlecry:</b> Give your opponent an Abyssal Curse.
+69530,Blessing of Kings,PALADIN, 4, , , , , Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>
+70260,Hold the Bridge,PALADIN, 3, , , , , Give a minion +2/+1 and <b>Divine Shield</b>. It gains <b>Lifesteal</b> until end of turn.
+72480,Bootstrap Sunkeneer,ROGUE, 5, 4, 4, , , <b>Combo:</b> Put an enemy minion on the bottom of your opponent's deck.
+65656,Heavy Plate,WARRIOR, 3, , , , , <b>Tradeable</b> Gain 8 Armor.
+80085,Tomb Guardians,DEATHKNIGHT, 4, , , , , Summon two 2/2 Zombies with <b>Taunt</b>. Spend 4 <b>Corpses</b> to give them <b>Reborn</b>.
+62485,Talented Arcanist,NEUTRAL, 2, 1, 3, , , <b>Battlecry:</b> Your next spell this turn has <b>Spell Damage +2</b>.
+72508,Scalding Geyser,SHAMAN, 1, , , , , Deal 2 damage. <b>Dredge</b>.
+82116,Rime Sculptor,DEATHKNIGHT, 5, 4, 3, , , <b>Battlecry:</b> Summon two 2/1 Rime Elementals with "<b>Deathrattle:</b> Deal 2 damage to a random enemy."
+64278,Cargo Guard,WARRIOR, 3, 2, 4, , , At the end of your turn, gain 3 Armor.
+70202,Reconnaissance,ROGUE, 2, , , , , <b>Discover</b> a <b>Deathrattle</b> minion from another class. It costs (2) less.
+65606,Hullbreaker,WARLOCK, 4, 4, 3, , , <b>Battlecry and Deathrattle:</b> Draw a spell. Your hero takes damage equal to its Cost.
+71242,Raid Negotiator,DRUID, 4, 3, 4, , , <b>Battlecry:</b> <b>Discover</b> a <b>Choose One</b> card. It has both effects combined.
+69689,Pounce,DRUID, 0, , , , , Give your hero +2 Attack this turn.
+72423,Radiance of Azshara,SHAMAN, 3, 3, 4, , , <b>Fire Spell Damage +2</b> Your Nature spells cost (1) less. After you cast a Frost spell, gain 3 Armor.
+80090,The Scourge,DEATHKNIGHT, 9, , , , , Fill your board with random Undead.
+77609,Commander Sivara,MAGE, 4, 3, 5, , , <b>Battlecry:</b> If you've cast three spells while holding this, add those spells back to your hand. <i>( left!)</i> <i>(Ready!)</i>
+69704,Avenge,PALADIN, 1, , , , , <b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.
+64722,Nobleman,NEUTRAL, 3, 2, 3, , , <b>Battlecry:</b> Create a Golden copy of a random card in your hand.
+62587,Blademaster Samuro,NEUTRAL, 4, 1, 6, , , <b>Rush</b> <b>Frenzy:</b> Deal damage equal to this minion's Attack to all enemy minions.
+84296,Blazing Power,WARRIOR, 2, , , , , Give a minion +1/+1. Repeat for each damaged friendly character.
+84239,Wretched Exile,DEMONHUNTER, 2, 2, 3, , , After you play an <b>Outcast</b> card, add a random <b>Outcast</b> card to your hand.
+84209,Deathweaver Aura,SHAMAN, 2, , , , , Give a minion "<b>Deathrattle:</b> Summon two 3/2 Zombies." <b>Overload:</b> (1)
+63130,Bulk Up,WARRIOR, 2, , , , , Give a random <b>Taunt</b> minion in your hand +1/+1 and copy it.
+84229,Scourge Troll,SHAMAN, 1, 1, 3, , , <b>Deathrattles</b> given to this minion trigger twice.
+84857,High Cultist Basaleph,PRIEST, 5, 3, 5, , , <b>Battlecry:</b> Resurrect all friendly Undead that died after your last turn.
+78335,Plagued Grain,DEATHKNIGHT, 1, , , , , Gain 4 <b>Corpses</b>. Shuffle four Crates into your deck that summon a 2/2 Undead when drawn.
+84267,Soul Barrage,WARLOCK, 5, , , , , When you play or discard this, deal 6 damage randomly split among all enemies.
+64434,Ignite,MAGE, 2, , , , , Deal damage. Shuffle an Ignite into your deck that deals one more damage.
+78085,Divine Toll,PALADIN, 7, , , , , Shoot 5 rays at random minions. They give friendly minions +2/+2, and deal 2 damage to enemy minions.
+64525,Noble Mount,PALADIN, 2, , , , , G ive a minion +1/+1 and <b>Divine Shield</b>. When it dies, summon a Warhorse.
+79486,Anonymous Informant,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> The next <b>Secret</b> you play costs (0).
+69551,Hex,SHAMAN, 3, , , , , Transform a minion into a 0/1 Frog with <b>Taunt</b>.
+66288,Investment Opportunity,SHAMAN, 1, , , , , Draw an <b>Overload</b> card.
+78342,Anti-Magic Shell,DEATHKNIGHT, 3, , , , , Give your minions +1/+1 and "Can't be targeted by spells or Hero Powers."
+62750,Pack Kodo,HUNTER, 3, 3, 3, , , <b>Battlecry:</b> <b>Discover</b> a Beast, <b>Secret</b>, or weapon.
+70265,Stonehearth Vindicator,PALADIN, 3, 3, 1, , , <b>Battlecry:</b> Draw a spell that costs (3) or less. It costs (0) this turn.
+67874,Arcane Brilliance,MAGE, 4, , , , , Add a copy of a 7, 8, 9, and 10-Cost spell in your deck to your hand.
+65645,"Edwin, Defias Kingpin",ROGUE, 4, 4, 4, , , <b>Battlecry:</b> Draw a card. If you play it this turn, gain +2/+2 and repeat this effect.
+70243,Grimtotem Bounty Hunter,NEUTRAL, 3, 4, 2, , , <b>Battlecry:</b> Destroy an enemy <b>Legendary</b> minion.
+82269,Bonedigger Geist,DEATHKNIGHT, 2, 2, 2, , , <b>Battlecry:</b> Spend a <b>Corpse</b> to gain +1/+2.
+78375,Ashen Elemental,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> Whenever your opponent draws a card next turn, they take 2 damage.
+84248,Walking Dead,WARLOCK, 3, 2, 5, , , <b>Taunt</b> If you discard this minion, summon it.
+77491,Maze Guide,NEUTRAL, 2, 1, 1, , , <b>Battlecry</b>: Summon a random 2-Cost minion.
+64013,Counterfeit Blade,ROGUE, 4, 4, , 2, , <b>Battlecry:</b> Gain a random friendly <b>Deathrattle</b> that triggered this game.
+78125,Kryxis the Voracious,DEMONHUNTER, 4, 7, 7, , , <b>Battlecry</b>: Discard your hand. <b>Deathrattle:</b> Draw 3 cards.
+76296,Houndmaster Shaw,HUNTER, 4, 3, 6, , , Your other minions have <b>Rush</b>.
+65044,Devouring Swarm,HUNTER, 0, , , , , Choose an enemy minion. Your minions attack it, then return any that die to your hand.
+79147,Vile Library,WARLOCK, 2, , 2, , , Give a friendly minion +1/+1 for each Imp you control.
+64712,Northshire Farmer,NEUTRAL, 3, 3, 3, , , <b>Battlecry:</b> Choose a friendly Beast. Shuffle three 3/3 copies into your deck.
+76306,Flash of Light,PALADIN, 2, , , , , Restore 4 Health. Draw a card.
+67778,Bearon Gla'shear,SHAMAN, 7, 6, 6, , , <b>Battlecry:</b> For each Frost spell you've cast this game, summon a 3/4 Elemental that <b>Freezes</b>. <i>( )</i>
+64714,Royal Librarian,NEUTRAL, 4, 4, 4, , , <b>Tradeable</b> <b>Battlecry:</b> <b>Silence</b> a minion.
+64395,Persistent Peddler,DEMONHUNTER, 4, 4, 3, , , <b>Tradeable</b> <b>Deathrattle:</b> Summon a Persistent Peddler from your deck.
+72594,Lady Ashvane,WARRIOR, 5, 5, 5, , , <b>Battlecry:</b> Give all weapons in your hand, deck, and battlefield +1/+1.
+72588,From the Depths,WARRIOR, 3, , , , , Reduce the Cost of the bottom five cards in your deck by (2), then <b>Dredge</b>.
+84370,Arms Dealer,NEUTRAL, 1, 1, 2, , , After you summon an Undead, give it +1 Attack.
+62583,Far Watch Post,NEUTRAL, 2, 2, 3, , , Can't attack. After your opponent draws a card, it costs (1) more <i>(up to 10)</i>.
+77558,Necrolord Draka,ROGUE, 5, 3, 4, , , <b>Battlecry:</b> Equip a /3 Dagger. <i>(+1 Attack for each other card you played this turn!)</i>
+64893,Bloodbound Imp,WARLOCK, 2, 2, 5, , , Whenever this attacks, deal 2 damage to your hero.
+86228,The Sunwell,NEUTRAL, 9, , , , , Fill your hand with random spells. Costs (1) less for each other card in your hand.
+86534,Lightbomb,PRIEST, 6, , , , , Deal damage to each minion equal to its Attack.
+72483,Whispers of the Deep,PRIEST, 1, , , , , <b>Silence</b> a friendly minion, then deal damage equal to its Attack randomly split among all enemy minions.
+79532,Stoneborn General,NEUTRAL, 10, 8, 8, , , <b>Rush</b> <b>Deathrattle:</b> Summon an 8/8 Gravewing with <b>Rush</b>.
+72484,Handmaiden,PRIEST, 3, 3, 2, , , <b>Battlecry:</b> If you've cast three spells while holding this, draw 3 cards. <i>( left!)</i> <i>(Ready!)</i>
+80647,Chillfallen Baron,DEATHKNIGHT, 3, 2, 2, , , <b>Battlecry and Deathrattle:</b> Draw a card.
+78371,Chatty Bartender,MAGE, 4, 4, 4, , , At the end of your turn, if you control a <b>Secret</b>, deal 2 damage to all enemies.
+86672,Felscale Evoker,DEMONHUNTER, 6, 3, 7, , , <b>Battlecry:</b> If you've cast three spells while holding this, summon a different Demon from your deck. <i>( left!)</i> <i>(Ready!)</i>
+63114,Mark of the Spikeshell,DRUID, 2, , , , , Give a minion +2/+2. If it has <b>Taunt</b>, add a copy of it to your hand.
+69718,Annoy-o-Tron,NEUTRAL, 2, 1, 2, , , <b>Taunt</b> <b>Divine Shield</b>
+76291,Ancient of Lore,DRUID, 7, 7, 7, , , <b>Choose One -</b> Draw 2 cards; or Restore 7 Health.
+74652,Twin-fin Fin Twin,NEUTRAL, 3, 2, 1, , , <b>Rush</b>. <b>Battlecry:</b> Summon a copy of this.
+62875,Devouring Plague,PRIEST, 3, , , , , <b>Lifesteal</b>. Deal 4 damage randomly split among all enemy minions.
+67192,Glaciate,SHAMAN, 6, , , , , <b>Discover</b> an 8-Cost minion. Summon and <b>Freeze</b> it.
+69735,Drain Soul,WARLOCK, 2, , , , , <b>Lifesteal</b> Deal 3 damage to a minion.
+67803,Beaststalker Tavish,HUNTER, 6, , 30, , 5, <b>Battlecry:</b> <b>Discover</b> and cast 2 Improved <b>Secrets</b>.
+64236,Sow the Soil,DRUID, 1, , , , , <b>Choose One</b> - Give your minions +1 Attack; or Summon a 2/2 Treant.
+84245,Souleater's Scythe,DEMONHUNTER, 4, 4, , 2, , <b>Start of Game:</b> Consume 3 different minions in your deck. Leave behind Souls that <b>Discover</b> them.
+62926,Sword of the Fallen,PALADIN, 2, 1, , 2, , After your hero attacks, cast a <b>Secret</b> from your deck.
+71688,Naval Mine,NEUTRAL, 2, 0, 2, , , <b>Deathrattle:</b> Deal 4 damage to the enemy hero.
+64900,The Demon Seed,WARLOCK, 1, , , , , <b>Questline:</b> Take 10 damage on your turns. <b>Reward:</b> <b>Lifesteal</b>. Deal 3 damage to the enemy hero.
+63069,Nofin Can Stop Us,SHAMAN, 3, , , , , Give your minions +1/+1. Give your Murlocs an extra +1/+1.
+84586,Grave Digging,PRIEST, 4, , , , , Draw 2 cards. Costs (1) if a friendly Undead died after your last turn.
+69556,Whirlwind,WARRIOR, 1, , , , , Deal 1 damage to ALL minions.
+71293,Smokescreen,ROGUE, 8, , , , , Draw 5 cards. Trigger any <b>Deathrattles</b> drawn.
+66861,Thrive in the Shadows,PRIEST, 2, , , , , <b>Discover</b> a spell from your deck.
+70400,Stormpike Quartermaster,NEUTRAL, 2, 2, 2, , , After you cast a spell, give a random minion in your hand +1/+1.
+78352,Army of the Dead,DEATHKNIGHT, 5, , , , , Raise up to 5 <b>Corpses</b> as 2/2 Risen Ghouls with <b>Rush</b>.
+79598,Prosecutor Mel'tranix,DEMONHUNTER, 4, 2, 6, , , <b>Battlecry:</b> Your opponent can only play their left- and right-most cards on their next turn.
+63821,Entrapped Sorceress,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> If you control a <b>Quest</b>, <b>Discover</b> a spell.
+62698,Selective Breeder,HUNTER, 2, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a copy of a Beast in your deck.
+69590,Feast of Souls,DEMONHUNTER, 1, , , , , Draw a card for each friendly minion that died this turn.
+70104,Stormpike Battle Ram,HUNTER, 4, 4, 3, , , <b>Rush</b> <b>Deathrattle:</b> Your next Beast costs (2) less.
+73443,Chum Bucket,WARLOCK, 2, , , , , Give all Murlocs in your hand +1/+1. Repeat for each Murloc you control.
+69519,Hellfire,WARLOCK, 3, , , , , Deal 3 damage to ALL characters.
+64197,Blacksmithing Hammer,WARRIOR, 4, 5, , 1, , <b>Tradeable</b> After you <b>Trade</b> this, gain +2 Durability.
+90850,Vrykul Necrolyte,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> Give a friendly minion "<b>Deathrattle:</b> Summon a 2/2 Zombie with <b>Rush</b>."
+80537,Scourge Rager,NEUTRAL, 3, 5, 4, , , <b>Reborn</b> <b>Battlecry:</b> Die.
+69635,Twisting Nether,WARLOCK, 8, , , , , Destroy all minions.
+80641,Graveyard Shift,DEATHKNIGHT, 3, , , , , Summon two 1/1 Zombies with <b>Reborn</b>.
+86731,Thassarian,DEATHKNIGHT, 4, 3, 3, , , <b>Reborn</b> <b>Battlecry and Deathrattle:</b> Deal 2 damage to a random enemy.
+76300,Marked Shot,HUNTER, 4, , , , , Deal 4 damage to a minion. <b>Discover</b> a spell.
+72984,Predation,DEMONHUNTER, 2, , , , , Deal 2 damage. Costs (0) if you played a Naga while holding this.
+63021,Thorngrowth Sentries,DRUID, 2, , , , , Summon two 1/2 Turtles with <b>Taunt</b>.
+64897,Demonic Assault,WARLOCK, 4, , , , , Deal 3 damage. Summon two 1/3 Voidwalkers with <b>Taunt</b>.
+78412,Spirit Poacher,HUNTER, 2, 2, 2, , , <b>Battlecry:</b> Summon a random <b>Dormant</b> Wildseed.
+64372,Peasant,NEUTRAL, 2, 2, 1, , , <b>Deathrattle:</b> Summon a 2/2 Undead Peasant.
+84383,Rotten Rodent,ROGUE, 2, 2, 1, , , <b>Battlecry:</b> Reduce the Cost of all <b>Deathrattle</b> cards in your deck by (1).
+64201,Oracle of Elune,DRUID, 3, 2, 4, , , After you play a minion that costs (2) or less, summon a copy of it.
+65601,Defias Blastfisher,HUNTER, 5, 3, 2, , , <b>Battlecry:</b> Deal 2 damage to a random enemy. Repeat for each of your Beasts.
+85046,Crypt Keeper,DRUID, 8, 4, 6, , , <b>Taunt</b>. Costs (1) less for each Armor you have.
+78355,Frostwyrm's Fury,DEATHKNIGHT, 7, , , , , Deal 5 damage. <b>Freeze</b> all enemy minions. Summon a 5/5 Frostwyrm.
+84749,Feast and Famine,PALADIN, 1, , , , , Give your hero +3 Attack this turn. <b>Manathirst (4):</b> And <b>Lifesteal</b>.
+77488,Incarceration,DRUID, 3, , , , , Choose a minion. It goes <b>Dormant</b> for 3 turns.
+64523,City Tax,PALADIN, 2, , , , , <b>Tradeable</b> <b>Lifesteal</b>. Deal 1 damage to all enemy minions.
+84260,"Felerin, the Forgotten",DEMONHUNTER, 4, 3, 3, , , <b>Battlecry:</b> Add a random <b>Outcast</b> card to the left and right sides of your hand. They cost (2) less.
+72336,Azsharan Gardens,DRUID, 1, , , , , Give all minions in your hand +1/+1. Put a 'Sunken Gardens' on the bottom of your deck.
+86660,Goldwing,PALADIN, 4, 3, 5, , , <b>Rush</b> <b>Battlecry:</b> If you're holding a Mech, gain <b>Windfury</b>.
+71251,Shoulder Check,WARRIOR, 1, , , , , <b>Tradeable</b> Give a minion +2/+1 and <b>Rush</b>.
+78338,Horn of Winter,DEATHKNIGHT, 0, , , , , Refresh 2 Mana Crystals.
+63509,Spawnpool Forager,SHAMAN, 1, 1, 2, , , <b>Deathrattle:</b> Summon a 1/1 Tinyfin.
+69612,Aldor Peacekeeper,PALADIN, 3, 3, 3, , , <b>Battlecry:</b> Change an enemy minion's Attack to 1.
+86539,Tess Greymane,ROGUE, 7, 6, 6, , , <b>Battlecry:</b> Replay every card from another class you've played this game <i>(targets chosen randomly)</i>.
+66864,Alexstrasza the Life-Binder,NEUTRAL, 9, 8, 8, , , <b>Battlecry</b>: Choose a character. If it's friendly, restore 8 Health. If it's an enemy, deal 8 damage.
+64443,Darkbishop Benedictus,PRIEST, 5, 5, 6, , , <b>Start of Game:</b> If the spells in your deck are all Shadow, enter Shadowform.
+63400,Devouring Ectoplasm,NEUTRAL, 3, 3, 2, , , <b>Deathrattle:</b> Summon a 2/2 Adventurer with a random bonus effect.
+84292,Last Stand,WARRIOR, 1, , , , , Draw a <b>Taunt</b> minion. <b>Manathirst (7):</b> Double its stats.
+69703,Warhorse Trainer,PALADIN, 3, 3, 4, , , Your Silver Hand Recruits have +2 Attack and <b>Taunt</b>.
+64488,Sorcerer's Gambit,MAGE, 1, , , , , <b>Questline:</b> Cast a Fire, Frost, and Arcane spell. <b>Reward: </b>Draw a spell.
+66858,Overlord Runthak,NEUTRAL, 5, 3, 6, , , <b>Rush</b>. Whenever this attacks, give +1/+1 to all minions in your hand.
+75070,Topple the Idol,DEMONHUNTER, 5, , , , , <b>Dredge</b>. Reveal it and deal damage equal to its Cost to all minions.
+76117,Moonbeam,DRUID, 1, , , , , Deal 1 damage to an enemy, twice.
+86542,Springpaw,HUNTER, 1, 1, 1, , , <b>Rush</b> <b>Battlecry:</b> Add a 1/1 Lynx with <b>Rush</b> to your hand.
+84288,Shallow Grave,WARLOCK, 2, , , , , Trigger a friendly minion's <b>Deathrattle</b>, then destroy it.
+87301,Hawkstrider Rancher,NEUTRAL, 3, 2, 5, , , Whenever you play a minion, give it +1/+1 and "<b>Deathrattle:</b> Summon a 1/1 Hawkstrider."
+84290,Devourer of Souls,WARLOCK, 1, 1, 3, , , After a friendly minion dies, gain its <b>Deathrattle</b>.
+69645,Frothing Berserker,WARRIOR, 3, 2, 4, , , Whenever a minion takes damage, gain +1 Attack.
+86535,Drakonid Operative,PRIEST, 4, 4, 5, , , <b>Battlecry:</b> If you're holding a Dragon, <b>Discover</b> a copy of a card in your opponent's deck.
+76294,Flametongue Totem,SHAMAN, 2, 0, 2, , , Adjacent minions have +2 Attack.
+64198,Provoke,WARRIOR, 0, , , , , <b>Tradeable</b> Choose a friendly minion. Enemy minions attack it.
+69607,Counterspell,MAGE, 3, , , , , <b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it.
+64554,Prismatic Jewel Kit,PALADIN, 1, 0, , 3, , After a friendly minion loses <b>Divine Shield</b>, give minions in your hand +1/+1. Lose 1 Durability.
+64899,Touch of the Nathrezim,WARLOCK, 1, , , , , Deal 2 damage to a minion. If it dies, restore 3 Health to your hero.
+79612,Scribbling Stenographer,ROGUE, 7, 4, 4, , , <b>Rush</b>. Costs (1) less for each card you've played this turn.
+84623,Light of the Phoenix,WARRIOR, 4, , , , , Draw 2 cards. Costs (1) less for each damaged friendly character.
+82310,Cathedral of Atonement,PRIEST, 3, , 3, , , Give a minion +2/+1 and draw a card.
+74988,Disarming Elemental,PRIEST, 4, 4, 4, , , <b>Battlecry:</b> <b>Dredge</b> for your opponent. Set its Cost to (6).
+79538,Arson Accusation,WARLOCK, 2, , , , , Choose a minion. Destroy it after your hero takes damage.
+79790,Street Sweeper,NEUTRAL, 4, 2, 2, , , <b>Battlecry:</b> Deal 2 damage to all other minions.
+63398,Mutanus the Devourer,NEUTRAL, 7, 4, 4, , , <b>Battlecry:</b> Eat a minion in your opponent's hand. Gain its stats.
+70255,Lokholar the Ice Lord,NEUTRAL, 10, 8, 8, , , <b>Rush</b>, <b>Windfury</b> Costs (5) less if you have 15 Health or less.
+64393,Fel Barrage,DEMONHUNTER, 2, , , , , Deal 2 damage to the lowest Health enemy, twice.
+62804,Flurry (Rank 1),MAGE, 0, , , , , <b>Freeze</b> a random enemy minion. <i>(Upgrades when you have 5 Mana.)</i>
+65678,Copycat,PRIEST, 3, 3, 4, , , <b>Battlecry:</b> Add a copy of the next card your opponent plays to your hand.
+76968,Creepy Painting,NEUTRAL, 3, 0, 6, , , After another minion dies, become a copy of it.
+69637,Lord Jaraxxus,WARLOCK, 9, , 30, , 5, <b>Battlecry:</b> Equip a 3/8 Blood Fury.
+87325,Rimescale Siren,DEATHKNIGHT, 3, 2, 3, , , <b>Battlecry:</b> If you've cast three spells while holding this, <b>Freeze</b> 3 random enemy minions. <i>( left!)</i> <i>(Ready!)</i>
+63211,Altar of Fire,WARLOCK, 1, , , , , Destroy the top 3 cards of each deck.
+65684,Arcane Overflow,MAGE, 5, , , , , Deal 8 damage to an enemy minion. Summon a Remnant with stats equal to the excess damage.
+78081,Service Bell,PALADIN, 3, , , , , <b>Discover</b> a Class card from your deck and draw all copies of it.
+69744,Tidal Surge,SHAMAN, 3, , , , , <b>Lifesteal</b> Deal 4 damage to a minion.
+62497,Shadowed Spirit,PRIEST, 3, 4, 3, , , <b>Deathrattle:</b> Deal 3 damage to the enemy hero.
+79784,Forensic Duster,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> Your opponent's minions cost (1) more next turn.
+64723,Elwynn Boar,NEUTRAL, 1, 1, 1, , , <b>Deathrattle:</b> If you had 7 Elwynn Boars die this game, equip a 15/3 Sword of a Thousand Truths. <i>( /7)</i>
+84351,Contract Conjurer,MAGE, 6, 6, 6, , , Costs (3) less for each <b>Secret</b> you control.
+62933,Veteran Warmedic,PALADIN, 4, 3, 5, , , After you cast a Holy spell, summon a 2/2 Medic with <b>Lifesteal</b>.
+64968,Stormwind Piper,HUNTER, 3, 1, 6, , , After this minion attacks, give your Beasts +1/+1.
+71709,Barbed Nets,HUNTER, 1, , , , , Deal 2 damage to an enemy. If you played a Naga while holding this, choose a second target.
+63467,Sigil of Silence,DEMONHUNTER, 0, , , , , At the start of your next turn, <b>Silence</b> all enemy minions.
+71232,Pet Collector,HUNTER, 5, 4, 4, , , <b>Battlecry:</b> Summon a Beast from your deck that costs (5) or less.
+64487,Auctioneer Jaxon,NEUTRAL, 2, 2, 3, , , Whenever you <b>Trade</b>, <b>Discover</b> a card from your deck to draw instead.
+62702,Gold Road Grunt,NEUTRAL, 5, 3, 7, , , <b>Taunt</b> <b>Frenzy:</b> Gain Armor equal to the damage taken.
+69638,Slam,WARRIOR, 10, , , , , Summon four 3/5 Clefthoofs that attack random enemies.
+69699,Snap Freeze,MAGE, 1, , , , , <b>Freeze</b> a minion. If it's already <b>Frozen</b>, destroy it.
+76301,Darius Crowley,WARRIOR, 5, 4, 5, , , <b>Rush</b> After this attacks and kills a minion, gain +2/+2.
+69724,Lone Champion,NEUTRAL, 3, 2, 4, , , <b>Battlecry:</b> If you control no other minions, gain <b>Taunt</b> and <b>Divine Shield</b>.
+64355,Tiny Toys,SHAMAN, 6, , , , , Summon four random 5-Cost minions. Make them 2/2.
+78222,Burden of Pride,WARRIOR, 4, , , , , Summon three 1/3 Jailers with <b>Taunt</b>. If you have 20 or less Health, give them +1/+1.
+66880,Herald of Lokholar,NEUTRAL, 4, 3, 5, , , <b>Battlecry:</b> Draw a Frost spell.
+63726,Horde Operative,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> Copy your opponent's <b>Secrets</b> and put them into play.
+79935,Murloc Holmes,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> Solve 3 Clues about your opponent's cards to get copies of them.
+67887,Warden of Chains,DEMONHUNTER, 4, 2, 6, , , <b>Taunt</b> <b>Battlecry:</b> If you're holding a Demon that costs (5) or more, gain +1/+2.
+72598,School Teacher,NEUTRAL, 4, 4, 4, , , <b>Battlecry:</b> Add a 1/1 Nagaling to your hand. <b>Discover</b> a spell that costs (3) or less to teach it.
+71292,Curse of Agony,WARLOCK, 1, , , , , Shuffle three Agonies into the opponent's deck. They deal Fatigue damage when drawn.
+79772,Weapons Expert,WARRIOR, 3, 3, 2, , , <b>Battlecry:</b> If you have a weapon equipped, give it +1/+1. Otherwise, draw a weapon.
+76312,Brann Bronzebeard,NEUTRAL, 3, 2, 4, , , Your <b>Battlecries</b> trigger twice.
+87329,Frost Queen Sindragosa,DEATHKNIGHT, 7, 6, 6, , , <b>Colossal +2</b> After an enemy minion is <b>Frozen</b>, destroy it.
+84299,Disruptive Spellbreaker,WARRIOR, 5, 4, 6, , , At the end of your turn, your opponent discards a spell.
+70024,Spirit Guide,PRIEST, 5, 5, 5, , , <b>Taunt</b> <b>Deathrattle:</b> Draw a Holy spell and a Shadow spell.
+84300,"Asvedon, the Grandshield",WARRIOR, 3, 3, 4, , , <b>Taunt</b> <b>Battlecry:</b> Cast a copy of the last spell your opponent played.
+79563,Masked Reveler,NEUTRAL, 6, 4, 4, , , <b>Rush</b> <b>Deathrattle:</b> Summon a 2/2 copy of another minion in your deck.
+66856,Taelan Fordring,NEUTRAL, 5, 3, 3, , , <b><b>Taunt</b>, Divine Shield</b> <b>Deathrattle:</b> Draw your highest Cost minion.
+86661,The Purator,PALADIN, 5, 4, 6, , , <b>Taunt</b> <b>Battlecry:</b> If your deck has no Neutral cards, draw a minion of each minion type.
+84132,Animate Dead,PRIEST, 1, , , , , Resurrect a friendly minion that costs (3) or less.
+76273,Blizzard,MAGE, 6, , , , , Deal 2 damage to all enemy minions and <b>Freeze</b> them.
+64423,Fire Sale,MAGE, 4, , , , , <b>Tradeable</b> Deal 3 damage to all minions.
+64429,Voidtouched Attendant,PRIEST, 1, 1, 3, , , Both heroes take one extra damage from all sources.
+64392,Void Shard,PRIEST, 4, , , , , <b>Lifesteal</b> Deal 4 damage.
+77368,Identity Theft,PRIEST, 3, , , , , <b>Discover</b> a copy of a card from your opponent's hand and deck.
+86725,"Rivendare, Warrider",NEUTRAL, 6, 6, 6, , , <b>Deathrattle:</b> Shuffle the other 3 Horsemen into your deck.
+69557,Murloc Tidehunter,NEUTRAL, 2, 2, 1, , , <b>Battlecry:</b> Summon a 1/1 Murloc Scout.
+78275,Ghastly Gravedigger,ROGUE, 3, 4, 3, , , <b>Battlecry:</b> If you control a <b>Secret</b>, choose a card in your opponent's hand to shuffle into their deck.
+62927,Northwatch Commander,PALADIN, 3, 3, 4, , , <b>Battlecry:</b> If you control a <b>Secret</b>, draw a minion.
+86624,Cannibalize,PRIEST, 4, , , , , Destroy a minion. Restore its Health to all friendly characters.
+75910,Suspicious Pirate,WARRIOR, 3, 3, 4, , , <b>Battlecry:</b> <b>Discover</b> a weapon. If your opponent guesses your choice, they get a copy.
+69661,Crazed Alchemist,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> Swap the Attack and Health of a minion.
+72648,Rainbow Glowscale,NEUTRAL, 2, 2, 3, , , <b>Spell Damage +1</b>
+76313,Elise Starseeker,NEUTRAL, 4, 3, 5, , , <b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey' into your deck.
+62813,Prospector's Caravan,HUNTER, 2, 1, 3, , , At the start of your turn, give all minions in your hand +1/+1.
+87326,Construct Quarter,DEATHKNIGHT, 4, , 2, , , Destroy a friendly minion to summon a 4/5 Undead with <b>Rush</b>.
+63277,Kindling Elemental,NEUTRAL, 1, 1, 2, , , <b>Battlecry:</b> The next Elemental you play costs (1) less.
+63126,Whirling Combatant,WARRIOR, 4, 3, 6, , , <b>Battlecry and Frenzy:</b> Deal 1 damage to all other minions.
+77370,Clean the Scene,PRIEST, 5, , , , , Destroy all minions with 3 or less Attack. <b>Infuse ( ):</b> 6 or less.
+76982,Primordial Wave,SHAMAN, 3, , , , , Transform enemy minions into ones that cost (1) less and friendly minions into ones that cost (1) more.
+86112,Concoctor,ROGUE, 1, 1, 2, , , <b>Battlecry:</b> Add a random Concoction to your hand.
+70636,Contraband Stash,ROGUE, 5, , , , , Replay 5 cards from other classes you've played this game.
+86438,Tear Reality,MAGE, 4, , , , , Add 2 random Mage spells from the past to your hand. They cost (2) less.
+77704,"Remornia, Living Blade",WARRIOR, 7, 5, 10, , , <b>Rush</b> After this attacks, equip it.
+78202,Hedge Maze,DRUID, 3, , 2, , , Trigger a friendly minion's <b>Deathrattle</b>.
+77298,Mysterious Visitor,PRIEST, 2, 2, 3, , , <b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (2).
+69676,Faceless Manipulator,NEUTRAL, 5, 3, 3, , , <b>Battlecry:</b> Choose a minion and become a copy of it.
+63677,Runed Mithril Rod,WARLOCK, 5, 0, , 2, , After you draw 4 cards, reduce the Cost of cards in your hand by (1). Lose 1 Durability.
+69643,Grommash Hellscream,WARRIOR, 8, 4, 9, , , <b>Charge</b> Has +6 Attack while damaged.
+71705,Barbaric Sorceress,NEUTRAL, 6, 3, 7, , , <b>Taunt</b>. <b>Battlecry:</b> Swap the Cost of a random spell in each player's hand.
+67210,Siphon Mana,MAGE, 2, , , , , Deal 2 damage. <b>Honorable Kill</b>: Reduce the Cost of spells in your hand by (1).
+79932,Famished Fool,NEUTRAL, 5, 3, 5, , , <b>Battlecry:</b> Draw a card. <b>Infuse ( ):</b> Draw 3 instead.
+86669,Shambling Chow,DEMONHUNTER, 1, 2, 3, , , <b>Rush</b> <b>Deathrattle:</b> Deal 4 damage to your hero.
+84393,Silvermoon Farstrider,HUNTER, 2, 2, 3, , , <b>Battlecry:</b> Give all Arcane spells in your hand <b>Spell Damage +1</b>.
+69507,Aldrachi Warblades,DEMONHUNTER, 3, 2, , 2, , <b>Lifesteal</b>
+67233,Ram Commander,NEUTRAL, 2, 2, 2, , , <b>Battlecry:</b> Add two 1/1 Rams with <b>Rush</b> to your hand.
+79552,Shadehound,HUNTER, 5, 6, 5, , , Whenever this attacks, give your other Beasts +2/+2. <b>Infuse ( Beasts):</b> Gain <b>Rush</b>.
+77210,Swordfish,ROGUE, 3, 2, , 3, , <b>Battlecry:</b> <b>Dredge</b>. If it's a Pirate, give this weapon and the Pirate +2 Attack.
+64419,Twilight Deceptor,PRIEST, 2, 2, 3, , , <b>Battlecry:</b> If any hero took damage this turn, draw a Shadow spell.
+66939,Shadowcrafter Scabbs,ROGUE, 8, , 30, , 5, <b>Battlecry:</b> Return all minions to their owner's hands. Summon two 4/2 Shadows with <b>Stealth</b>.
+86120,Potionmaster Putricide,ROGUE, 2, 1, 4, , , After a minion dies, add a Concoction to your hand.
+72021,Gorloc Ravager,NEUTRAL, 5, 4, 3, , , <b>Battlecry:</b> Draw 3 Murlocs.
+78397,"Orion, Mansion Manager",MAGE, 4, 3, 5, , , After a friendly <b>Secret</b> is revealed, cast a different Mage <b>Secret</b> and gain +2/+2.
+75580,Ozumat,NEUTRAL, 8, 6, 5, , , <b>Colossal +6</b> <b>Deathrattle:</b> For each of Ozumat's Tentacles, destroy a random enemy minion.
+77016,Azsharan Sweeper,MAGE, 3, 3, 4, , , <b>Battlecry:</b> Put a 'Sunken Sweeper' on the bottom of your deck.
+63059,Reckless Apprentice,MAGE, 4, 3, 5, , , <b>Battlecry:</b> Fire your Hero Power at all enemies.
+64368,Alliance Bannerman,PALADIN, 3, 2, 2, , , <b>Battlecry:</b> Draw a minion. Give minions in your hand +1/+1.
+72254,Azsharan Scavenger,WARLOCK, 2, 2, 3, , , <b>Battlecry:</b> Put a 'Sunken Scavenger' on the bottom of your deck.
+62347,"Aegwynn, the Guardian",MAGE, 5, 5, 5, , , <b>Spell Damage +2</b> <b>Deathrattle:</b> The next minion you draw inherits these powers.
+70021,Undying Disciple,PRIEST, 6, 3, 7, , , <b>Taunt</b> <b>Deathrattle:</b> Deal damage equal to this minion's Attack to all enemy minions.
+70282,Captain Galvangar,WARRIOR, 6, 6, 6, , , <b>Battlecry:</b> If you have gained 15 or more Armor this game, gain +3/+3 and <b>Charge</b>. <i>( left!)</i> <i>(Ready!)</i>
+66872,Deathwing the Destroyer,NEUTRAL, 10, 12, 12, , , <b>Battlecry:</b> Destroy all other minions. Discard a card for each destroyed.
+76922,Suffocating Shadows,WARLOCK, 3, , , , , When you play or discard this, destroy a random enemy minion.
+86209,Ghostly Strike,ROGUE, 1, , , , , Deal 1 damage. <b>Combo:</b> Draw a card.
+86317,Bonelord Frostwhisper,NEUTRAL, 6, 6, 6, , , <b>Deathrattle:</b> For the rest of the game, your first card each turn costs (0). You die in 3 turns.
+69606,Cone of Cold,MAGE, 3, , , , , <b>Freeze</b> a minion and the minions next to it, and deal 1 damage to them.
+84289,Twisted Tether,WARLOCK, 4, , , , , Destroy a minion. Give its stats to a random Undead in your hand.
+65691,Man the Cannons,WARRIOR, 2, , , , , Deal 3 damage to a minion and 1 damage to all other minions.
+69521,Backstab,ROGUE, 0, , , , , Deal 2 damage to an undamaged minion.
+71227,Gear Grubber,NEUTRAL, 4, 4, 5, , , <b>Taunt</b>. If you end your turn with any unspent Mana, reduce this card's Cost by (1).
+69545,Tracking,HUNTER, 1, , , , , <b>Discover</b> a card from your deck.
+69634,Siphon Soul,WARLOCK, 4, , , , , Destroy a minion. Restore 3 Health to your hero.
+84237,Arcane Quiver,HUNTER, 2, , , , , <b>Discover</b> a spell from your deck. If it's Arcane, give it <b>Spell Damage +1</b>.
+76275,Lyra the Sunshard,PRIEST, 5, 3, 5, , , Whenever you cast a spell, add a random Priest spell to your hand.
+78079,Steamcleaner,NEUTRAL, 5, 5, 5, , , <b>Battlecry:</b> Destroy ALL cards in both players' decks that didn't start there.
+69542,Sen'jin Shieldmasta,NEUTRAL, 4, 3, 5, , , <b>Taunt</b>
+75635,Tidal Revenant,WARRIOR, 8, 5, 8, , , <b>Battlecry:</b> Deal 5 damage. Gain 8 Armor.
+79757,Attorney-at-Maw,DRUID, 2, 1, 3, , , <b>Choose One -</b> <b>Silence</b> a minion; or Give a minion <b>Immune</b> this turn.
+94889,Darkfallen Shadow,NEUTRAL, 3, 3, 3, , , <b>Rush</b> <b>Manathirst ( ):</b> Gain <b>Reborn</b>.
+71235,Spirit Mount,SHAMAN, 2, , , , , Give a minion +1/+2 and <b>Spell Damage +1</b>. When it dies, summon a Spirit Raptor.
+77149,Private Eye,ROGUE, 4, 3, 4, , , <b>Battlecry:</b> Cast a <b>Secret</b> from your deck. <b>Combo:</b> Cast 2 instead.
+65677,Defias Leper,PRIEST, 2, 3, 2, , , <b>Battlecry:</b> If you're holding a Shadow spell, deal 2 damage.
+63216,Blood Shard Bristleback,WARLOCK, 3, 3, 3, , , <b>Lifesteal</b>. <b>Battlecry:</b> If your deck contains 10 or fewer cards, deal 6 damage to a minion.
+72928,Naga's Pride,HUNTER, 3, , , , , Summon two 2/2 Lionfish. If you played a Naga while holding this, give them +1/+1.
+71781,"Sir Finley, Sea Guide",NEUTRAL, 1, 1, 3, , , <b>Battlecry:</b> Swap your hand with the bottom of your deck.
+62588,"Kazakus, Golem Shaper",NEUTRAL, 4, 3, 3, , , <b>Battlecry:</b> If your deck has no 4-Cost cards, build a custom Golem.
+63673,Celestial Ink Set,MAGE, 2, 0, , 2, , After you spend 5 Mana on spells, reduce the Cost of a spell in your hand by (5). Lose 1 Durability.
+63230,Taintheart Tormenter,DEMONHUNTER, 8, 8, 8, , , <b>Taunt</b> Your opponent's spells cost (2) more.
+69629,Lightning Storm,SHAMAN, 3, , , , , Deal 3 damage to all enemy minions. <b>Overload:</b> (1)
+77374,Azsharan Ritual,PRIEST, 4, , , , , <b>Silence</b> a minion and summon a copy of it. Put a 'Sunken Ritual' on the bottom of your deck.
+82369,Sinstone Graveyard,ROGUE, 3, , 2, , , Summon a / Ghost. <i>(Has +1/+1 for each other card you played this turn!)</i>
+64726,Lady Prestor,NEUTRAL, 6, 6, 7, , , <b>Battlecry:</b> Transform minions in your deck into random Dragons. <i>(They keep their original stats and Cost.)</I>
+79739,Clear Conscience,PRIEST, 3, , , , , Give a friendly minion +2/+3 and "Only you can target this with spells and Hero Powers."
+78601,Patchwerk,DEATHKNIGHT, 7, 4, 6, , , <b>Battlecry:</b> Destroy a random minion in your opponent's hand, deck, and battlefield.
+76285,Buccaneer,ROGUE, 1, 2, 1, , , Whenever you equip a weapon, give it +1 Attack.
+78373,Dredger Staff,NEUTRAL, 1, 1, 2, , , <b>Battlecry:</b> Give minions in your hand +1 Health.
+62703,Peon,NEUTRAL, 2, 2, 3, , , <b>Frenzy:</b> Add a random spell from your class to your hand.
+67375,Gankster,NEUTRAL, 2, 4, 2, , , <b>Stealth</b> After your opponent plays a minion, attack it.
+62876,Soothsayer's Caravan,PRIEST, 2, 1, 3, , , At the start of your turn, copy a spell from your opponent's deck to your hand.
+77152,Halkias,ROGUE, 4, 5, 4, , , <b>Stealth</b>. <b>Deathrattle:</b> Store Halkias's soul inside of a friendly <b>Secret</b>. It resummons Halkias when triggered.
+72592,Obsidiansmith,WARRIOR, 2, 3, 2, , , <b>Battlecry:</b> <b>Dredge</b>. If it's a minion or a weapon, give it +1/+1.
+71729,Slimescale Diver,NEUTRAL, 3, 2, 4, , , <b>Dormant</b> for 1 turn. <b>Rush</b>, <b>Poisonous</b>
+69506,Sightless Watcher,DEMONHUNTER, 2, 3, 2, , , <b>Battlecry:</b> Look at 3 cards in your deck. Choose one to put on top.
+78080,Muckborn Servant,PALADIN, 3, 2, 4, , , <b>Taunt</b> <b>Battlecry:</b> <b>Discover</b> a Paladin card.
+65598,Parrrley,ROGUE, 1, , , , , Swap this for a card in your opponent's deck.
+79593,All Fel Breaks Loose,DEMONHUNTER, 5, , , , , Summon a friendly Demon that died this game. <b>Infuse ( Demons):</b> Summon three instead.
+81972,Harbinger of Winter,DEATHKNIGHT, 2, 2, 2, , , <b>Deathrattle:</b> Draw a Frost spell.
+78348,Unholy Frenzy,DEATHKNIGHT, 2, , , , , Choose an enemy minion. Your minions attack it. Resummon any that die.
+79531,Criminal Lineup,SHAMAN, 8, , , , , Choose a friendly minion. Summon 3 copies of it. <b>Overload:</b> (2)
+62871,Void Flayer,PRIEST, 4, 3, 4, , , <b>Battlecry:</b> For each spell in your hand, deal 1 damage to a random enemy minion.
+72590,Guard the City,WARRIOR, 2, , , , , Gain 3 Armor. Summon a 2/3 Naga with <b>Taunt</b>.
+64034,SI:7 Operative,ROGUE, 3, 2, 4, , , <b>Rush</b> After this attacks a minion, gain <b>Stealth</b>.
+86550,Mossy Horror,NEUTRAL, 6, 2, 7, , , <b>Battlecry:</b> Destroy all other minions with 2 or less Attack.
+85810,Coilfang Constrictor,NEUTRAL, 4, 5, 4, , , <b>Battlecry:</b> Look at 3 cards in your opponent's hand and choose one. It can't be played next turn.
+70239,Stormpike Marshal,NEUTRAL, 4, 2, 6, , , <b>Taunt</b> If you took 5 or more damage on your opponent's turn, this costs (1).
+84357,Amorphous Slime,WARLOCK, 5, 5, 3, , , <b>Battlecry:</b> Discard a random Undead. <b>Deathrattle:</b> Summon a copy of it.
+69500,Arcane Intellect,MAGE, 3, , , , , Draw 2 cards.
+85034,Prismatic Elemental,MAGE, 2, 1, 3, , , <b>Battlecry:</b> <b>Discover</b> a spell from any class. It costs (1) less.
+76282,Imp Gang Boss,WARLOCK, 3, 2, 4, , , Whenever this minion takes damage, summon a 1/1 Imp.
+69601,King Krush,HUNTER, 7, 2, 4, , , <b>Battlecry:</b> If your deck has no duplicates, summon King Krush.
+78418,Castle Kennels,HUNTER, 2, , 3, , , Give a friendly minion +2 Attack. If it's a Beast, give it <b>Rush</b>.
+69608,Ice Barrier,MAGE, 3, , , , , <b>Secret:</b> When your hero is attacked, gain 8 Armor.
+84387,Amber Whelp,NEUTRAL, 3, 3, 3, , , <b>Battlecry:</b> If you're holding a Dragon, deal 3 damage.
+65683,Deepwater Evoker,MAGE, 4, 3, 4, , , <b>Battlecry:</b> Draw a spell. Gain Armor equal to its Cost.
+73726,Xhilag of the Abyss,DEMONHUNTER, 7, 3, 6, , , <b>Colossal +4</b> At the start of your turn, increase the damage of Xhilag's Stalks by 1.
+84133,Bonecaller,PRIEST, 4, 2, 5, , , <b>Taunt</b> <b>Deathrattle</b>: Resurrect a friendly Undead that died this game.
+69742,Swashburglar,ROGUE, 1, 1, 2, , , <b>Battlecry:</b> Add a random card from another class to your hand.
+93881,Thori'belore,WARRIOR, 4, 4, 4, , , <b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Cast a Fire spell to revive Thori'belore!
+75579,Snapdragon,NEUTRAL, 3, 3, 3, , , <b>Battlecry:</b> Give all <b>Battlecry</b> minions in your deck +1/+1.
+67932,Windchill,SHAMAN, 2, 3, 2, , , <b>Battlecry:</b> Add a Windchill to your hand.
+72536,Crabatoa,ROGUE, 6, 6, 5, , , <b>Colossal +2</b> Your Crabatoa Claws have +2 Attack.
+80120,Drown,PRIEST, 4, , , , , Put an enemy minion on the bottom of your deck.
+72417,Click-Clocker,NEUTRAL, 1, 1, 1, , , <b>Divine Shield</b>. <b>Battlecry:</b> Give a random Mech in your hand +1/+1.
+69543,Chillwind Yeti,NEUTRAL, 4, 4, 5, , , 
+76583,Herald of Light,PRIEST, 3, 3, 4, , , <b>Battlecry:</b> If you've cast a Holy spell while holding this, restore 6 Health to all friendly characters.
+70245,Mountain Bear,HUNTER, 7, 5, 6, , , <b>Taunt</b> <b>Deathrattle:</b> Summon two 2/4 Cubs with <b>Taunt</b>.
+76041,Forsaken Lieutenant,ROGUE, 2, 2, 2, , , <b><b>Stealth</b>.</b> After you play a <b>Deathrattle</b> minion, become a 2/2 copy of it with <b>Rush</b>.
+69721,Grim Necromancer,NEUTRAL, 4, 2, 4, , , <b>Battlecry:</b> Summon two 1/1 Skeletons.
+67871,Shivering Sorceress,MAGE, 1, 2, 2, , , <b>Battlecry:</b> Reduce the Cost of the highest Cost spell in your hand by (1).
+63191,Grimoire of Sacrifice,WARLOCK, 1, , , , , Destroy a friendly minion. Deal 2 damage to all enemy minions.
+64385,Composting,DRUID, 2, , , , , Give your minions "<b>Deathrattle:</b> Draw a card."
+70295,Clawfury Adept,DRUID, 2, 2, 3, , , <b>Battlecry:</b> Give all other friendly characters +1 Attack this turn.
+76323,Plated Beetle,NEUTRAL, 2, 2, 3, , , <b>Deathrattle:</b> Gain 3 Armor.
+64292,Best in Shell,DRUID, 6, , , , , <b>Tradeable</b> Summon two 2/7 Turtles with <b>Taunt</b>.
+84293,Silverfury Stalwart,WARRIOR, 6, 4, 8, , , <b><b>Taunt</b>, Rush</b> Can't be targeted by spells or Hero Powers.
+86483,Stitched Creation,ROGUE, 3, 1, 1, , , <b>Combo:</b> Gain +2/+2. <b>Infuse ( ):</b> Gain +3/+3. <b>Manathirst ( ):</b> Gain +4/+4.
+72938,Pelican Diver,NEUTRAL, 1, 4, 1, , , <b>Dormant</b> for 1 turn. <b>Rush</b>
+62585,Mor'shan Watch Post,NEUTRAL, 3, 3, 5, , , Can't attack. After your opponent plays a minion, summon a 2/2 Grunt.
+80087,Drakkari Embalmer,NEUTRAL, 3, 3, 4, , , <b>Battlecry:</b> Give a friendly Undead <b>Reborn</b>.
+84361,Undying Allies,PRIEST, 0, , , , , After you play an Undead this turn, give it <b>Reborn</b>.
+72504,Selfish Shellfish,NEUTRAL, 4, 7, 7, , , <b>Deathrattle:</b> Your opponent draws 2 cards.
+77308,Sinrunner,NEUTRAL, 5, 6, 5, , , <b>Deathrattle:</b> Destroy a random enemy minion.
+80014,Ymirjar Frostbreaker,DEATHKNIGHT, 1, 1, 2, , , <b>Battlecry:</b> Gain +1 Attack for each Frost spell in your hand.
+69700,Babbling Book,MAGE, 1, 1, 2, , , <b>Battlecry:</b> Add a random Mage spell to your hand.
+69639,Armorsmith,WARRIOR, 5, 2, 7, , , <b>Taunt</b> Whenever this minion deals damage, gain that much Armor.
+79778,Afterlife Attendant,NEUTRAL, 3, 3, 4, , , Your <b>Infuse</b> cards also <b>Infuse</b> while in your deck.
+69701,Ethereal Conjurer,MAGE, 5, 6, 4, , , <b>Battlecry: Discover</b> a spell.
+78317,Howling Blast,DEATHKNIGHT, 3, , , , , Deal 3 damage to an enemy and <b>Freeze</b> it. Deal 1 damage to all other enemies.
+71922,Abyssal Depths,DEMONHUNTER, 3, , , , , Draw your two lowest Cost minions.
+75639,Commander Ulthok,WARLOCK, 5, 7, 7, , , <b>Battlecry:</b> Your opponent's cards cost Health instead of Mana next turn.
+78419,Ara'lon,HUNTER, 5, 4, 5, , , <b>Battlecry:</b> Summon one of each <b>Dormant</b> Wildseed.
+63252,Hecklefang Hyena,NEUTRAL, 2, 2, 4, , , <b>Battlecry:</b> Deal 3 damage to your hero.
+84212,Shadow Suffusion,SHAMAN, 3, , , , , Give your minions "<b>Deathrattle:</b> Deal 3 damage to a random enemy."
+69626,Feral Spirit,SHAMAN, 3, , , , , Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (1)
+63374,Whetstone Hatchet,WARRIOR, 1, 1, , 4, , After your hero attacks, give a minion in your hand +1 Attack.
+69588,Raging Felscreamer,DEMONHUNTER, 4, 4, 4, , , <b>Battlecry:</b> The next Demon you play costs (2) less.
+66875,Drek'Thar,NEUTRAL, 4, 4, 4, , , <b>Battlecry</b>: If this costs more than every minion in your deck, summon one of those minions.
+78416,Wild Spirits,HUNTER, 3, , , , , Summon two different <b>Dormant</b> Wildseeds. Make your Wildseeds awaken 1 turn sooner.
+86619,Rotting Necromancer,PRIEST, 4, 5, 4, , , <b>Battlecry:</b> <b>Dredge.</b> If it's an Undead, deal 5 damage to the enemy hero.
+81963,Soulstealer,DEATHKNIGHT, 8, 5, 5, , , <b>Battlecry:</b> Destroy all other minions. Gain 1 <b>Corpse</b> for each enemy destroyed.
+72416,Schooling,SHAMAN, 1, , , , , Add three 1/1 Piranha Swarmers to your hand.
+62874,Lightshower Elemental,PRIEST, 6, 6, 6, , , <b>Taunt</b> <b>Deathrattle:</b> Restore 8 Health to all friendly characters.
+69546,Arcane Shot,HUNTER, 1, , , , , Deal 2 damage.
+77557,Serrated Bone Spike,ROGUE, 2, , , , , Deal 3 damage to a minion. If it dies, your next card this turn costs (2) less.
+63346,Devout Dungeoneer,PRIEST, 3, 2, 3, , , <b>Battlecry:</b> Draw a spell. If it's a Holy spell, reduce its Cost by (2).
+65599,Mr. Smite,NEUTRAL, 7, 6, 5, , , Your Pirates have <b>Charge</b>.
+76970,Carving Chisel,SHAMAN, 2, 1, , 3, , After your hero attacks, summon a random basic Totem.
+69659,Dark Iron Dwarf,NEUTRAL, 4, 4, 4, , , <b>Battlecry:</b> Give a minion +2 Attack this turn.
+79556,Defense Attorney Nathanos,HUNTER, 6, 5, 4, , , <b>Battlecry:</b> <b>Discover</b> a friendly <b>Deathrattle</b> minion that died this game. Trigger and gain its <b>Deathrattle</b>.
+64433,Clumsy Courier,MAGE, 7, 4, 5, , , <b>Battlecry:</b> Cast the highest Cost spell from your hand.
+70238,Frostwolf Warmaster,NEUTRAL, 4, 3, 3, , , Costs (1) less for each card you've played this turn.
+75590,Command of Neptulon,SHAMAN, 5, , , , , Summon two 5/4 Elementals with <b>Rush</b>. <b>Overload:</b> (1)
+69644,Cruel Taskmaster,WARRIOR, 2, 2, 3, , , <b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.
+76287,Fandral Staghelm,DRUID, 4, 3, 5, , , Your <b>Choose One</b> cards and powers have both effects combined.
+64710,Goldshire Gnoll,NEUTRAL, 10, 5, 4, , , <b>Rush</b> Costs (1) less for each other card in your hand.
+77148,Double Cross,ROGUE, 2, , , , , <b>Secret:</b> When your opponent spends all their Mana, draw two cards.
+74907,Ambassador Faelin,NEUTRAL, 4, 4, 5, , , <b>Battlecry:</b> Put 3 <b>Colossal</b> minions on the bottom of your deck.
+64718,Mailbox Dancer,NEUTRAL, 2, 3, 2, , , <b>Battlecry:</b> Add a Coin to your hand. <b>Deathrattle:</b> Give your opponent one.
+77554,Bloodlust,SHAMAN, 5, , , , , Give your minions +3 Attack this turn.
+84736,Energy Shaper,MAGE, 3, 3, 4, , , <b>Battlecry:</b> Transform all spells in your hand into ones that cost (2) more. <i>(They keep their original Cost.)</i>
+78268,Stonebound Gargon,HUNTER, 4, 3, 5, , , <b>Rush</b> <b>Infuse ( ):</b> Also damages the minions next to whomever this attacks.
+79142,Shadowborn,WARLOCK, 3, 3, 3, , , <b>Deathrattle:</b> Reduce the Cost of the highest Cost Shadow spell in your hand by (3).
+79581,Crooked Cook,NEUTRAL, 2, 1, 4, , , At the end of your turn, if you dealt 3 or more damage to the enemy hero, draw a card.
+63117,Warsong Envoy,WARRIOR, 1, 1, 3, , , <b>Frenzy:</b> Gain +1 Attack for each damaged character.
+62891,Efficient Octo-bot,ROGUE, 3, 1, 4, , , <b>Frenzy:</b> Reduce the Cost of cards in your hand by (1).
+69669,SI:7 Infiltrator,NEUTRAL, 4, 5, 4, , , <b>Battlecry:</b> Destroy a random enemy <b>Secret</b>.
+69654,Worgen Infiltrator,NEUTRAL, 1, 2, 1, , , <b>Stealth</b>
+68246,Snowed In,WARRIOR, 3, , , , , Destroy a damaged minion. <b>Freeze</b> all other minions.
+86136,Blightblood Berserker,SHAMAN, 8, 3, 8, , , <b>Taunt</b>, <b>Lifesteal</b>, <b>Reborn</b> <b>Deathrattle:</b> Deal 3 damage to a random enemy.
+78334,Icy Touch,DEATHKNIGHT, 1, , , , , Deal 2 damage to an enemy and <b>Freeze</b> it.
+84392,Shockspitter,HUNTER, 4, 3, 3, , , <b>Battlecry:</b> Deal damage. <i>(Improved by your hero attacks this game!)</i>
+86693,Training Session,WARRIOR, 1, , , , , <b>Discover</b> a <b>Taunt</b> minion. If you play it this turn, repeat this.
+64546,Highlord Fordragon,PALADIN, 6, 5, 5, , , <b>Divine Shield</b> After a friendly minion loses <b>Divine Shield</b>, give a minion in your hand +5/+5.
+69605,Deadly Shot,HUNTER, 3, , , , , Destroy a random enemy minion.
+69668,Dire Wolf Alpha,NEUTRAL, 2, 2, 2, , , Adjacent minions have +1 Attack.
+86533,Pyromaniac,MAGE, 3, 3, 4, , , Whenever your Hero Power kills a minion, draw a card.
+73431,Shimmering Sunfish,PALADIN, 3, 2, 5, , , <b>Battlecry:</b> If you're holding a Holy Spell, gain <b>Taunt</b> and <b>Divine Shield</b>.
+65700,Cookie the Cook,SHAMAN, 3, 2, 3, , , <b>Lifesteal</b> <b>Deathrattle:</b> Equip a 2/3 Stirring Rod with <b>Lifesteal</b>.
+63517,Scabbs Cutterbutter,ROGUE, 4, 3, 3, , , <b>Combo:</b> The next two cards you play this turn cost (3) less.
+86109,Ghoulish Alchemist,ROGUE, 2, 3, 2, , , <b>Battlecry</b>: Your next Concoction costs (0).
+85049,Beetlemancy,DRUID, 5, , , , , <b>Choose One</b> - Gain 12 Armor; or Summon two 3/3 Beetles with <b>Taunt</b>.
+76985,Baroness Vashj,SHAMAN, 4, 3, 6, , , If this would transform into a minion, summon that minion instead.
+86440,Whirlweaver,MAGE, 3, 4, 3, , , <b>Battlecry:</b> If you've cast a spell last turn, <b>Discover</b> an Elemental.
+64416,Elekk Mount,PRIEST, 7, , , , , Give a minion +4/+7 and <b>Taunt</b>. When it dies, summon an Elekk.
+76311,Sir Finley Mrrgglton,NEUTRAL, 1, 1, 3, , , <b><b>Battlecry:</b> Discover</b> a new basic Hero Power.
+64707,Deeprun Engineer,NEUTRAL, 2, 1, 2, , , <b>Battlecry:</b> <b>Discover</b> a Mech. It costs (1) less.
+71919,Glaiveshark,DEMONHUNTER, 4, 4, 3, , , <b>Battlecry:</b> If your hero attacked this turn, deal 2 damage to all enemies.
+86186,Harkener of Dread,SHAMAN, 5, 2, 2, , , <b>Taunt</b> <b>Deathrattle:</b> Summon a 6/6 Undead with <b>Taunt</b>.
+79771,Mawsworn Bailiff,WARRIOR, 5, 4, 4, , , <b><b>Taunt</b>.</b> <b>Battlecry:</b> If you have 4 or more Armor, gain +4/+4.
+76250,Radar Detector,PALADIN, 2, , , , , Scan the bottom 5 cards of your deck. Draw any Mechs found this way, then shuffle your deck.
+78314,Soulbreaker,DEATHKNIGHT, 3, 3, , 2, , After your hero attacks and kills a minion, gain 2 <b>Corpses</b>.
+69613,Tirion Fordring,PALADIN, 8, 6, 6, , , <b><b>Divine Shield</b>,</b> <b>Taunt</b> <b>Deathrattle:</b> Equip a 5/3 Ashbringer.
+65702,Golakka Glutton,NEUTRAL, 3, 2, 3, , , <b>Battlecry:</b> Destroy a Beast and gain +1/+1.
+63381,Barrens Trapper,NEUTRAL, 3, 2, 4, , , Your <b>Deathrattle</b> cards cost (1) less.
+69649,Abusive Sergeant,NEUTRAL, 1, 1, 1, , , <b>Battlecry:</b> Give a minion +2 Attack this turn.
+63690,Soldier's Caravan,PALADIN, 2, 1, 3, , , At the start of your turn, summon two 1/1 Silver Hand Recruits.
+78420,Stag Charge,HUNTER, 3, , , , , Deal 3 damage. Summon a random <b>Dormant</b> Wildseed.
+77209,Azsharan Scroll,SHAMAN, 1, , , , , <b>Discover</b> a Fire, Frost or Nature spell. Put a 'Sunken Scroll' on the bottom of your deck.
+67239,Vanndar Stormpike,NEUTRAL, 4, 4, 4, , , <b>Battlecry</b>: If this costs less than every minion in your deck, reduce their Cost by (3).
+79745,Theft Accusation,PRIEST, 1, , , , , Choose a minion. Destroy it after you play a card copied from the opponent.
+86502,Frostfin Chomper,SHAMAN, 3, 2, 3, , , <b>Battlecry:</b> If you played an Elemental last turn, summon three 1/1 Murlocs.
+69741,Shieldmaiden,WARRIOR, 5, 5, 5, , , <b>Battlecry:</b> Gain 5 Armor.
+77056,Mischievous Imp,WARLOCK, 4, 3, 3, , , <b>Battlecry:</b> Summon a copy of this. <b>Infuse ( ):</b> Summon two copies instead.
+79934,Kael'thas Sinstrider,NEUTRAL, 8, 4, 7, , , Every third minion you play each turn costs (0).
+69504,Coordinated Strike,DEMONHUNTER, 3, , , , , Summon three 1/1 Illidari with <b>Rush</b>.
+73713,Hedra the Heretic,DRUID, 7, 4, 5, , , <b>Battlecry:</b> For each spell you've cast while holding this, summon a minion of that spell's Cost.
+65705,"Goliath, Sneed's Masterpiece",NEUTRAL, 8, 8, 8, , , <b>Battlecry:</b> Fire five rockets at enemy minions that deal 2 damage each. <i>(You pick the targets!)</i>
+64960,Rodent Nest,HUNTER, 4, 2, 2, , , <b>Deathrattle:</b> Summon five 1/1 Rats.
+70107,Full-Blown Evil,WARLOCK, 3, , , , , Deal 5 damage randomly split among all enemy minions. Repeatable this turn.
+71253,Ring of Courage,PALADIN, 2, , , , , <b>Tradeable</b> Give a minion +1/+1. Repeat for each enemy minion.
+70396,Snowfall Graveyard,ROGUE, 3, , , , , Your <b>Deathrattles</b> trigger twice. Lasts 3 turns.
+70263,Protect the Innocent,PALADIN, 5, , , , , Summon a 5/5 Defender with <b>Taunt</b>. If your hero was healed this turn, summon another.
+78394,"Kel'Thuzad, the Inevitable",MAGE, 8, 6, 8, , , <b>Battlecry:</b> Resurrect your Volatile Skeletons. Any that can't fit on the battlefield instantly explode! <i>( )</i>
+79782,The Jailer,NEUTRAL, 10, 10, 10, , , <b>Battlecry:</b> Destroy your deck. For the rest of the game, your minions are <b>Immune</b>.
+69712,Sunreaver Spy,NEUTRAL, 2, 2, 3, , , <b>Battlecry:</b> If you control a <b>Secret</b>, gain +1/+1.
+64717,Enthusiastic Banker,NEUTRAL, 3, 2, 3, , , At the end of your turn, store a card from your deck. <b>Deathrattle:</b> Add the stored cards to your hand.
+72113,Azsharan Trident,WARRIOR, 3, 3, , 2, , <b>Deathrattle:</b> Put a 'Sunken Trident' on the bottom of your deck.
+72318, Abyssal Wave, WARLOCK, 6, , , , , Deal 4 damage to all minions. Give your opponent an Abyssal Curse.
+64467,Kor'vas Bloodthorn,DEMONHUNTER, 2, 2, 2, , , <b>Charge</b>, <b>Lifesteal</b> After you play a card with <b>Outcast</b>, return this to your hand.
+74890,Filletfighter,ROGUE, 1, 3, 1, , , <b>Battlecry:</b> Deal 1 damage.
+70257,"Ivus, the Forest Lord",NEUTRAL, 1, 1, 1, , , <b>Battlecry:</b> Spend the rest of your Mana and gain +2/+2, <b>Rush</b>, <b>Divine Shield</b>, or <b>Taunt</b> at random for each.
+62462,Bloodsail Deckhand,WARRIOR, 1, 2, 1, , ,<b>Battlecry:</b> The next weapon you play costs (1) less.
+77642,Solid Alibi,MAGE, 2, , , , , Until your next turn, your hero can only take 1 damage at a time.
+66860,Focused Will,PRIEST, 1, , , , , <b>Silence</b> a minion, then give it +3 health.
+62359,Vanessa VanCleef,ROGUE, 2, 2, 3, , , <b>Combo:</b> Add a copy of the last card your opponent played to your hand.
