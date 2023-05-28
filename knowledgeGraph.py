@@ -26,10 +26,11 @@ class Variation(object):
         self.id = id
         self.winrate = winrate
         self.popularity = popularity
+        self.k = k
 
     def __str__(self):
         string = ""
-        string += k.namedict[self.archetype_id]
+        string += self.k.namedict[self.archetype_id]
         string += self.id
         return string
 
@@ -177,10 +178,7 @@ class KnowledgeGraph(object):
 
 if __name__ == '__main__':
     k = KnowledgeGraph()
-    # k.display_archetype(571, limit=10)
+    k.display_archetype(571, limit=10)
     print("pandas dataframe:")
     df = networkx.to_pandas_edgelist(k.G)
-    # pandas.display(df)
-    with open("output.txt", "w") as foo:
-        for line in df.to_string():
-            foo.write(line)
+    print(df)
