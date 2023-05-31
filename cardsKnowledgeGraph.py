@@ -2,8 +2,9 @@ import random
 import networkx
 import networkx as nx
 import ast
-import pandas
+import pandas as pd
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 
 
 class Card(object):
@@ -85,16 +86,52 @@ class KnowledgeGraph(object):
             cardid = random.choice(list(self.cards.keys()))
             self.displayPartial(cardid)
 
-    def getDataFrame(self):
+    def getPositiveDataFrame(self):
         return networkx.to_pandas_edgelist(self.G)
     
     # def getByCardName(self, cardName):
     #     for card in self.cards:
     #         print(card)
 
+    def getNegativeDataFrame(self):
+        # takes too long so is unfeasible to use...
+        print("Generating negative data frame...")
+        table = {
+            'Source': [],
+            'Destination': []
+        }
+        df = pd.DataFrame(table)
+        print(f"Will loop through {len(self.cards.values())} items squared...")
+        count = 1
+        for node1 in tqdm(self.cards.values()):
+            count += 1
+            for node2 in self.cards.values():
+                if node1 == node2:
+                    continue
+                if not self.G.has_edge(node1, node2):
+                    df.loc[len(df.index)] = [node1, node2]
+        pd.display(df)
+        return df
+
+    def getEdgeDroppedDataFrame(self):
+        print("Dropping edges...")
+        edgeDroppedGraph = self.G.copy()
+        removable_edges = []
+        for node in tqdm(self.cards.values()):
+            weights = {}
+            for edge in edgeDroppedGraph.edges(node):
+                weights[edge] = self.G.get_edge_data(edge[0], edge[1])['weight']
+            max_edge = max(weights, key=weights.get)
+            edgeDroppedGraph.remove_edge(max_edge[0], max_edge[1])
+            if nx.number_connected_components(edgeDroppedGraph) == 1:
+                removable_edges.append(max_edge)
+            else:
+                edgeDroppedGraph.add_edge(max_edge[0], max_edge[1], weight=weights[max_edge])
+        print(f"Removed edges: {len(removable_edges)}")
+        return nx.to_pandas_edgelist(edgeDroppedGraph)
+
 
 if __name__ == '__main__':
     k = KnowledgeGraph()
-    # k.displayPartialRandom(5)
-    print(k.getDataFrame())
     print(networkx.info(k.G))
+    print(k.getEdgeDroppedDataFrame())
