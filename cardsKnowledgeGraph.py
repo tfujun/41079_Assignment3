@@ -87,9 +87,14 @@ class KnowledgeGraph(object):
 
     def getDataFrame(self):
         return networkx.to_pandas_edgelist(self.G)
+    
+    # def getByCardName(self, cardName):
+    #     for card in self.cards:
+    #         print(card)
 
 
 if __name__ == '__main__':
     k = KnowledgeGraph()
     # k.displayPartialRandom(5)
     print(k.getDataFrame())
+    print(networkx.info(k.G))
