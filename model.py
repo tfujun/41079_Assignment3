@@ -35,6 +35,7 @@ class ModelTrainer(object):
     def PredictLinks(self, Graph, embeddingDf, sourceCard):
         card = embeddingDf[embeddingDf.index == sourceCard]
         print(card)
+        print("=======================================================================================================")
 
         classCards = set()
         neutralCards = set()
@@ -68,3 +69,4 @@ if __name__ == '__main__':
     print("Predicted links:")
     for predictedLink in model.predictedLinks:
         print(predictedLink)
+    print("=======================================================================================================")
