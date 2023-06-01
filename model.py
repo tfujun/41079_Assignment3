@@ -29,7 +29,8 @@ class PrepareDataset(object):
 class ModelTrainer(object):
     def __init__(self):
         self.preparedDataset = PrepareDataset()
-        self.predictedLinks = self.PredictLinks(self.preparedDataset.knowledgeGraph.G, self.preparedDataset.embeddingsDf, self.preparedDataset.knowledgeGraph.cards["69640"])
+        self.sourceCard = self.preparedDataset.knowledgeGraph.cards["78142"]
+        self.predictedLinks = self.PredictLinks(self.preparedDataset.knowledgeGraph.G, self.preparedDataset.embeddingsDf, self.sourceCard)
 
     def PredictLinks(self, Graph, embeddingDf, sourceCard):
         card = embeddingDf[embeddingDf.index == sourceCard]
