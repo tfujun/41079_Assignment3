@@ -20,23 +20,23 @@ class PrepareDataset(object):
             )
         )
 
-        print(embeddingsDf.head())
-        # print(embeddingsDf.index.astype(dtype=object))
-        print(embeddingsDf[self.knowledgeGraph.G.nodes(self.knowledgeGraph.cards["69640"].name)])
-        # print(embeddingsDf["Brawl"])
+        # print(embeddingsDf.head())
+        # To get a card from the df: embeddingsDf.loc[[self.knowledgeGraph.cards[{card_id}]]]
+        # To reference a card object: self.knowledgeGraph.cards[{card_id}]
+        # print(embeddingsDf.loc[[self.knowledgeGraph.cards["69640"]]])
         return embeddingsDf
 
 class ModelTrainer(object):
     def __init__(self):
-        self.PreparedDataset = PrepareDataset()
-        self.predictedLinks = self.PredictLinks(self.PreparedDataset.knowledgeGraph.G, self.PreparedDataset.embeddingsDf, "Brawl")
+        self.preparedDataset = PrepareDataset()
+        self.predictedLinks = self.PredictLinks(self.preparedDataset.knowledgeGraph.G, self.preparedDataset.embeddingsDf, self.preparedDataset.knowledgeGraph.cards["69640"])
 
-    def PredictLinks(self, Graph, embeddingDf, cardName):
-        card = embeddingDf[embeddingDf.index == cardName]
+    def PredictLinks(self, Graph, embeddingDf, sourceCard):
+        card = embeddingDf[embeddingDf.index == sourceCard]
         print(card)
 
         allCards = Graph.nodes()
-        otherNodes = [n for n in allCards if n not in list(Graph.adj[cardName]) + [cardName]]
+        otherNodes = [n for n in allCards if n not in list(Graph.adj[sourceCard]) + [sourceCard]]
         otherCards = embeddingDf[embeddingDf.index.isin(otherNodes)]
 
         similarity = cosine_similarity(card, otherCards)[0].tolist()
@@ -45,10 +45,13 @@ class ModelTrainer(object):
         index_similarity = dict(zip(index, similarity))
         index_similarity = sorted(index_similarity.items(), key = lambda x: x[1], reverse = True)
 
-        similarCards = index_similarity[:30]
+        similarCards = index_similarity[:29]
         cards = [card[0] for card in similarCards]
+
         return cards
 
 if __name__ == '__main__':
     model = ModelTrainer()
-    # print(model.predictedLinks)
+    print("Predicted links:")
+    for predictedLink in model.predictedLinks:
+        print(predictedLink)
