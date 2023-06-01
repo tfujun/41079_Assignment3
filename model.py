@@ -29,15 +29,27 @@ class PrepareDataset(object):
 class ModelTrainer(object):
     def __init__(self):
         self.preparedDataset = PrepareDataset()
-        self.sourceCard = self.preparedDataset.knowledgeGraph.cards["78142"]
+        self.sourceCard = self.preparedDataset.knowledgeGraph.cards["78363"]
         self.predictedLinks = self.PredictLinks(self.preparedDataset.knowledgeGraph.G, self.preparedDataset.embeddingsDf, self.sourceCard)
 
     def PredictLinks(self, Graph, embeddingDf, sourceCard):
         card = embeddingDf[embeddingDf.index == sourceCard]
         print(card)
 
-        allCards = Graph.nodes()
-        otherNodes = [n for n in allCards if n not in list(Graph.adj[sourceCard]) + [sourceCard]]
+        classCards = set()
+        neutralCards = set()
+
+        for node in Graph.nodes():
+            if(str(node.classname).strip() == str(sourceCard.classname).strip()):
+                classCards.add(node)
+
+        for node in Graph.nodes():
+            if(str(node.classname).strip() == 'NEUTRAL'):
+                neutralCards.add(node)
+
+        otherNodes = [n for n in classCards if n in list(Graph) + [sourceCard]]
+        otherNodes += [n for n in neutralCards if n in list(Graph) + [sourceCard]]
+
         otherCards = embeddingDf[embeddingDf.index.isin(otherNodes)]
 
         similarity = cosine_similarity(card, otherCards)[0].tolist()
